@@ -1,0 +1,3611 @@
+{
+  "Good_List": {
+    "Year": {
+      "Year_Name": "2013",
+      "Good": [
+        {
+          "Good_Name": "Bricks",
+          "Countries": {
+            "Country": [
+              {
+                "Country_Name": "Afghanistan",
+                "ISO2": "AF",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "T"
+              },
+              {
+                "Country_Name": "Argentina",
+                "ISO2": "AR",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Bangladesh",
+                "ISO2": "BD",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Bolivia",
+                "ISO2": "BO",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Brazil",
+                "ISO2": "BR",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Burma",
+                "ISO2": "BU",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "T"
+              },
+              {
+                "Country_Name": "Cambodia",
+                "ISO2": "KH",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "China",
+                "ISO2": "CN",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "T"
+              },
+              {
+                "Country_Name": "Ecuador",
+                "ISO2": "EC",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "India",
+                "ISO2": "IN",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "T"
+              },
+              {
+                "Country_Name": "Nepal",
+                "ISO2": "NP",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "T"
+              },
+              {
+                "Country_Name": "North Korea",
+                "ISO2": "KP",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "F",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Pakistan",
+                "ISO2": "PK",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "T"
+              },
+              {
+                "Country_Name": "Paraguay",
+                "ISO2": "PY",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Peru",
+                "ISO2": "PE",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Uganda",
+                "ISO2": "UG",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Vietnam",
+                "ISO2": "VN",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              }
+            ]
+          }
+        },
+        {
+          "Good_Name": "Carpets",
+          "Countries": {
+            "Country": [
+              {
+                "Country_Name": "Afghanistan",
+                "ISO2": "AF",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "India",
+                "ISO2": "IN",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Iran",
+                "ISO2": "IR",
+                "Region": "Middle East - North Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Nepal",
+                "ISO2": "NP",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "T"
+              },
+              {
+                "Country_Name": "Pakistan",
+                "ISO2": "PK",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "T"
+              }
+            ]
+          }
+        },
+        {
+          "Good_Name": "Coal",
+          "Countries": {
+            "Country": [
+              {
+                "Country_Name": "Afghanistan",
+                "ISO2": "AF",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "China",
+                "ISO2": "CN",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "F",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Colombia",
+                "ISO2": "CO",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Mongolia",
+                "ISO2": "MN",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "North Korea",
+                "ISO2": "KP",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "F",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Pakistan",
+                "ISO2": "PK",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "T"
+              },
+              {
+                "Country_Name": "Ukraine",
+                "ISO2": "UA",
+                "Region": "Europe - Eurasia",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              }
+            ]
+          }
+        },
+        {
+          "Good_Name": "Flowers (poppies)",
+          "Countries": {
+            "Country": {
+              "Country_Name": "Afghanistan",
+              "ISO2": "AF",
+              "Region": "Asia - Pacific",
+              "Child_Labor": "T",
+              "Forced_Labor": "F",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Diamonds",
+          "Countries": {
+            "Country": [
+              {
+                "Country_Name": "Angola",
+                "ISO2": "AO",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Central African Republic",
+                "ISO2": "CF",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Democratic Republic of the Congo",
+                "ISO2": "CD",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Guinea",
+                "ISO2": "GN",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Liberia",
+                "ISO2": "LR",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Sierra Leone",
+                "ISO2": "SL",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "T"
+              }
+            ]
+          }
+        },
+        {
+          "Good_Name": "Blueberries",
+          "Countries": {
+            "Country": {
+              "Country_Name": "Argentina",
+              "ISO2": "AR",
+              "Region": "Latin America - Caribbean",
+              "Child_Labor": "T",
+              "Forced_Labor": "F",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Cotton",
+          "Countries": {
+            "Country": [
+              {
+                "Country_Name": "Argentina",
+                "ISO2": "AR",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Azerbaijan",
+                "ISO2": "AZ",
+                "Region": "Europe - Eurasia",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Benin",
+                "ISO2": "BJ",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "T"
+              },
+              {
+                "Country_Name": "Brazil",
+                "ISO2": "BR",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Burkina Faso",
+                "ISO2": "BF",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "T"
+              },
+              {
+                "Country_Name": "China",
+                "ISO2": "CN",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "T"
+              },
+              {
+                "Country_Name": "Egypt",
+                "ISO2": "EG",
+                "Region": "Middle East - North Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "India",
+                "ISO2": "IN",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Kazakhstan",
+                "ISO2": "KZ",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Kyrgyz Republic",
+                "ISO2": "KV",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Mali",
+                "ISO2": "ML",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Pakistan",
+                "ISO2": "PK",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "F",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Paraguay",
+                "ISO2": "PY",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Tajikistan",
+                "ISO2": "TJ",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "T"
+              },
+              {
+                "Country_Name": "Turkey",
+                "ISO2": "TR",
+                "Region": "Europe - Eurasia",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Turkmenistan",
+                "ISO2": "TM",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Uzbekistan",
+                "ISO2": "UZ",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "T"
+              },
+              {
+                "Country_Name": "Zambia",
+                "ISO2": "ZM",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              }
+            ]
+          }
+        },
+        {
+          "Good_Name": "Garlic",
+          "Countries": {
+            "Country": {
+              "Country_Name": "Argentina",
+              "ISO2": "AR",
+              "Region": "Latin America - Caribbean",
+              "Child_Labor": "T",
+              "Forced_Labor": "F",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Garments",
+          "Countries": {
+            "Country": [
+              {
+                "Country_Name": "Argentina",
+                "ISO2": "AR",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "T",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "T"
+              },
+              {
+                "Country_Name": "Bangladesh",
+                "ISO2": "BD",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Brazil",
+                "ISO2": "BR",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "F",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "China",
+                "ISO2": "CN",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "F",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "India",
+                "ISO2": "IN",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "T"
+              },
+              {
+                "Country_Name": "Jordan",
+                "ISO2": "JO",
+                "Region": "Middle East - North Africa",
+                "Child_Labor": "F",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Malaysia",
+                "ISO2": "MY",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "F",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Thailand",
+                "ISO2": "TH",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "T"
+              },
+              {
+                "Country_Name": "Vietnam",
+                "ISO2": "VN",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "T"
+              }
+            ]
+          }
+        },
+        {
+          "Good_Name": "Grapes",
+          "Countries": {
+            "Country": {
+              "Country_Name": "Argentina",
+              "ISO2": "AR",
+              "Region": "Latin America - Caribbean",
+              "Child_Labor": "T",
+              "Forced_Labor": "F",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Olives",
+          "Countries": {
+            "Country": {
+              "Country_Name": "Argentina",
+              "ISO2": "AR",
+              "Region": "Latin America - Caribbean",
+              "Child_Labor": "T",
+              "Forced_Labor": "F",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Strawberries",
+          "Countries": {
+            "Country": {
+              "Country_Name": "Argentina",
+              "ISO2": "AR",
+              "Region": "Latin America - Caribbean",
+              "Child_Labor": "T",
+              "Forced_Labor": "F",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Tobacco",
+          "Countries": {
+            "Country": [
+              {
+                "Country_Name": "Argentina",
+                "ISO2": "AR",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Brazil",
+                "ISO2": "BR",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Cambodia",
+                "ISO2": "KH",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Indonesia",
+                "ISO2": "ID",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Kenya",
+                "ISO2": "KE",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Kyrgyz Republic",
+                "ISO2": "KV",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Lebanon",
+                "ISO2": "LB",
+                "Region": "Middle East - North Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Malawi",
+                "ISO2": "MW",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "T"
+              },
+              {
+                "Country_Name": "Mexico",
+                "ISO2": "MX",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Mozambique",
+                "ISO2": "MZ",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Nicaragua",
+                "ISO2": "NI",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Philippines",
+                "ISO2": "PH",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Tanzania",
+                "ISO2": "TZ",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Uganda",
+                "ISO2": "UG",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Zambia",
+                "ISO2": "ZM",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              }
+            ]
+          }
+        },
+        {
+          "Good_Name": "Tomatoes",
+          "Countries": {
+            "Country": [
+              {
+                "Country_Name": "Argentina",
+                "ISO2": "AR",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Dominican Republic",
+                "ISO2": "DO",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Mexico",
+                "ISO2": "MX",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              }
+            ]
+          }
+        },
+        {
+          "Good_Name": "Yerba Mate (stimulant plant)",
+          "Countries": {
+            "Country": {
+              "Country_Name": "Argentina",
+              "ISO2": "AR",
+              "Region": "Latin America - Caribbean",
+              "Child_Labor": "T",
+              "Forced_Labor": "F",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Bidis (hand-rolled cigarettes)",
+          "Countries": {
+            "Country": [
+              {
+                "Country_Name": "Bangladesh",
+                "ISO2": "BD",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "India",
+                "ISO2": "IN",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              }
+            ]
+          }
+        },
+        {
+          "Good_Name": "Dried Fish",
+          "Countries": {
+            "Country": {
+              "Country_Name": "Bangladesh",
+              "ISO2": "BD",
+              "Region": "Asia - Pacific",
+              "Child_Labor": "T",
+              "Forced_Labor": "T",
+              "Forced_Child_Labor": "T"
+            }
+          }
+        },
+        {
+          "Good_Name": "Footwear",
+          "Countries": {
+            "Country": [
+              {
+                "Country_Name": "Bangladesh",
+                "ISO2": "BD",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Brazil",
+                "ISO2": "BR",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "China",
+                "ISO2": "CN",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "F",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "India",
+                "ISO2": "IN",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              }
+            ]
+          }
+        },
+        {
+          "Good_Name": "Furniture (steel)",
+          "Countries": {
+            "Country": {
+              "Country_Name": "Bangladesh",
+              "ISO2": "BD",
+              "Region": "Asia - Pacific",
+              "Child_Labor": "T",
+              "Forced_Labor": "F",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Glass",
+          "Countries": {
+            "Country": {
+              "Country_Name": "Bangladesh",
+              "ISO2": "BD",
+              "Region": "Asia - Pacific",
+              "Child_Labor": "T",
+              "Forced_Labor": "F",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Leather",
+          "Countries": {
+            "Country": [
+              {
+                "Country_Name": "Bangladesh",
+                "ISO2": "BD",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Pakistan",
+                "ISO2": "PK",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              }
+            ]
+          }
+        },
+        {
+          "Good_Name": "Matches",
+          "Countries": {
+            "Country": [
+              {
+                "Country_Name": "Bangladesh",
+                "ISO2": "BD",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "India",
+                "ISO2": "IN",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              }
+            ]
+          }
+        },
+        {
+          "Good_Name": "Poultry",
+          "Countries": {
+            "Country": {
+              "Country_Name": "Bangladesh",
+              "ISO2": "BD",
+              "Region": "Asia - Pacific",
+              "Child_Labor": "T",
+              "Forced_Labor": "F",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Salt",
+          "Countries": {
+            "Country": [
+              {
+                "Country_Name": "Bangladesh",
+                "ISO2": "BD",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Cambodia",
+                "ISO2": "KH",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Niger",
+                "ISO2": "NE",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              }
+            ]
+          }
+        },
+        {
+          "Good_Name": "Shrimp",
+          "Countries": {
+            "Country": [
+              {
+                "Country_Name": "Bangladesh",
+                "ISO2": "BD",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Burma",
+                "ISO2": "BU",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "F",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Cambodia",
+                "ISO2": "KH",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Thailand",
+                "ISO2": "TH",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "T"
+              }
+            ]
+          }
+        },
+        {
+          "Good_Name": "Soap",
+          "Countries": {
+            "Country": {
+              "Country_Name": "Bangladesh",
+              "ISO2": "BD",
+              "Region": "Asia - Pacific",
+              "Child_Labor": "T",
+              "Forced_Labor": "F",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Textiles",
+          "Countries": {
+            "Country": [
+              {
+                "Country_Name": "Bangladesh",
+                "ISO2": "BD",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Cambodia",
+                "ISO2": "KH",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "China",
+                "ISO2": "CN",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "North Korea",
+                "ISO2": "KP",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "F",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "F"
+              }
+            ]
+          }
+        },
+        {
+          "Good_Name": "Textiles (jute)",
+          "Countries": {
+            "Country": {
+              "Country_Name": "Bangladesh",
+              "ISO2": "BD",
+              "Region": "Asia - Pacific",
+              "Child_Labor": "T",
+              "Forced_Labor": "F",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Bananas",
+          "Countries": {
+            "Country": [
+              {
+                "Country_Name": "Belize",
+                "ISO2": "BZ",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Ecuador",
+                "ISO2": "EC",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Nicaragua",
+                "ISO2": "NI",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Philippines",
+                "ISO2": "PH",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              }
+            ]
+          }
+        },
+        {
+          "Good_Name": "Citrus Fruits",
+          "Countries": {
+            "Country": [
+              {
+                "Country_Name": "Belize",
+                "ISO2": "BZ",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Turkey",
+                "ISO2": "TR",
+                "Region": "Europe - Eurasia",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              }
+            ]
+          }
+        },
+        {
+          "Good_Name": "Sugarcane",
+          "Countries": {
+            "Country": [
+              {
+                "Country_Name": "Belize",
+                "ISO2": "BZ",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Bolivia",
+                "ISO2": "BO",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "T",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "T"
+              },
+              {
+                "Country_Name": "Brazil",
+                "ISO2": "BR",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "F",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Burma",
+                "ISO2": "BU",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "T"
+              },
+              {
+                "Country_Name": "Colombia",
+                "ISO2": "CO",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Dominican Republic",
+                "ISO2": "DO",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "T",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "El Salvador",
+                "ISO2": "SV",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Guatemala",
+                "ISO2": "GT",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "India",
+                "ISO2": "IN",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Kenya",
+                "ISO2": "KE",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Mexico",
+                "ISO2": "MX",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Pakistan",
+                "ISO2": "PK",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "F",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Panama",
+                "ISO2": "PA",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Paraguay",
+                "ISO2": "PY",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Philippines",
+                "ISO2": "PH",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Thailand",
+                "ISO2": "TH",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Uganda",
+                "ISO2": "UG",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              }
+            ]
+          }
+        },
+        {
+          "Good_Name": "Granite (crushed)",
+          "Countries": {
+            "Country": {
+              "Country_Name": "Benin",
+              "ISO2": "BJ",
+              "Region": "Sub-Saharan Africa",
+              "Child_Labor": "T",
+              "Forced_Labor": "F",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Brazil Nuts/Chestnuts",
+          "Countries": {
+            "Country": [
+              {
+                "Country_Name": "Bolivia",
+                "ISO2": "BO",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "T",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "T"
+              },
+              {
+                "Country_Name": "Peru",
+                "ISO2": "PE",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "F",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "F"
+              }
+            ]
+          }
+        },
+        {
+          "Good_Name": "Cattle",
+          "Countries": {
+            "Country": [
+              {
+                "Country_Name": "Bolivia",
+                "ISO2": "BO",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "F",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Brazil",
+                "ISO2": "BR",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "T",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Chad",
+                "ISO2": "TD",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Ethiopia",
+                "ISO2": "ET",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Lesotho",
+                "ISO2": "LS",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Mauritania",
+                "ISO2": "MR",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Namibia",
+                "ISO2": "NA",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Niger",
+                "ISO2": "NE",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "F",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Paraguay",
+                "ISO2": "PY",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "F",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "South Sudan",
+                "ISO2": "SS",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "T"
+              },
+              {
+                "Country_Name": "Uganda",
+                "ISO2": "UG",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Zambia",
+                "ISO2": "ZM",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              }
+            ]
+          }
+        },
+        {
+          "Good_Name": "Corn",
+          "Countries": {
+            "Country": [
+              {
+                "Country_Name": "Bolivia",
+                "ISO2": "BO",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "T",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Guatemala",
+                "ISO2": "GT",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Philippines",
+                "ISO2": "PH",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              }
+            ]
+          }
+        },
+        {
+          "Good_Name": "Gold",
+          "Countries": {
+            "Country": [
+              {
+                "Country_Name": "Bolivia",
+                "ISO2": "BO",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Burkina Faso",
+                "ISO2": "BF",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "T"
+              },
+              {
+                "Country_Name": "Colombia",
+                "ISO2": "CO",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Democratic Republic of the Congo",
+                "ISO2": "CD",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "T"
+              },
+              {
+                "Country_Name": "Ecuador",
+                "ISO2": "EC",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Ethiopia",
+                "ISO2": "ET",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Ghana",
+                "ISO2": "GH",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Guinea",
+                "ISO2": "GN",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Indonesia",
+                "ISO2": "ID",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Mali",
+                "ISO2": "ML",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Mongolia",
+                "ISO2": "MN",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Nicaragua",
+                "ISO2": "NI",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Niger",
+                "ISO2": "NE",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "North Korea",
+                "ISO2": "KP",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "F",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Peru",
+                "ISO2": "PE",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "T",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Philippines",
+                "ISO2": "PH",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Senegal",
+                "ISO2": "SN",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Suriname",
+                "ISO2": "SR",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Tanzania",
+                "ISO2": "TZ",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              }
+            ]
+          }
+        },
+        {
+          "Good_Name": "Peanuts",
+          "Countries": {
+            "Country": [
+              {
+                "Country_Name": "Bolivia",
+                "ISO2": "BO",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "F",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Turkey",
+                "ISO2": "TR",
+                "Region": "Europe - Eurasia",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              }
+            ]
+          }
+        },
+        {
+          "Good_Name": "Silver",
+          "Countries": {
+            "Country": {
+              "Country_Name": "Bolivia",
+              "ISO2": "BO",
+              "Region": "Latin America - Caribbean",
+              "Child_Labor": "T",
+              "Forced_Labor": "F",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Tin",
+          "Countries": {
+            "Country": {
+              "Country_Name": "Bolivia",
+              "ISO2": "BO",
+              "Region": "Latin America - Caribbean",
+              "Child_Labor": "T",
+              "Forced_Labor": "F",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Zinc",
+          "Countries": {
+            "Country": {
+              "Country_Name": "Bolivia",
+              "ISO2": "BO",
+              "Region": "Latin America - Caribbean",
+              "Child_Labor": "T",
+              "Forced_Labor": "F",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Beef",
+          "Countries": {
+            "Country": {
+              "Country_Name": "Brazil",
+              "ISO2": "BR",
+              "Region": "Latin America - Caribbean",
+              "Child_Labor": "T",
+              "Forced_Labor": "F",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Cashews",
+          "Countries": {
+            "Country": [
+              {
+                "Country_Name": "Brazil",
+                "ISO2": "BR",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Guinea",
+                "ISO2": "GN",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              }
+            ]
+          }
+        },
+        {
+          "Good_Name": "Ceramics",
+          "Countries": {
+            "Country": {
+              "Country_Name": "Brazil",
+              "ISO2": "BR",
+              "Region": "Latin America - Caribbean",
+              "Child_Labor": "T",
+              "Forced_Labor": "F",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Charcoal",
+          "Countries": {
+            "Country": [
+              {
+                "Country_Name": "Brazil",
+                "ISO2": "BR",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "T",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Uganda",
+                "ISO2": "UG",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              }
+            ]
+          }
+        },
+        {
+          "Good_Name": "Manioc/Cassava",
+          "Countries": {
+            "Country": [
+              {
+                "Country_Name": "Brazil",
+                "ISO2": "BR",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Cambodia",
+                "ISO2": "KH",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Nigeria",
+                "ISO2": "NG",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              }
+            ]
+          }
+        },
+        {
+          "Good_Name": "Pineapples",
+          "Countries": {
+            "Country": {
+              "Country_Name": "Brazil",
+              "ISO2": "BR",
+              "Region": "Latin America - Caribbean",
+              "Child_Labor": "T",
+              "Forced_Labor": "F",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Rice",
+          "Countries": {
+            "Country": [
+              {
+                "Country_Name": "Brazil",
+                "ISO2": "BR",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Burma",
+                "ISO2": "BU",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "T"
+              },
+              {
+                "Country_Name": "Dominican Republic",
+                "ISO2": "DO",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "India",
+                "ISO2": "IN",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "T"
+              },
+              {
+                "Country_Name": "Kenya",
+                "ISO2": "KE",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Mali",
+                "ISO2": "ML",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "T"
+              },
+              {
+                "Country_Name": "Philippines",
+                "ISO2": "PH",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Uganda",
+                "ISO2": "UG",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              }
+            ]
+          }
+        },
+        {
+          "Good_Name": "Sisal",
+          "Countries": {
+            "Country": [
+              {
+                "Country_Name": "Brazil",
+                "ISO2": "BR",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Kenya",
+                "ISO2": "KE",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Tanzania",
+                "ISO2": "TZ",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              }
+            ]
+          }
+        },
+        {
+          "Good_Name": "Timber",
+          "Countries": {
+            "Country": [
+              {
+                "Country_Name": "Brazil",
+                "ISO2": "BR",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "F",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Cambodia",
+                "ISO2": "KH",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "North Korea",
+                "ISO2": "KP",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "F",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Peru",
+                "ISO2": "PE",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "F",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "F"
+              }
+            ]
+          }
+        },
+        {
+          "Good_Name": "Bamboo",
+          "Countries": {
+            "Country": {
+              "Country_Name": "Burma",
+              "ISO2": "BU",
+              "Region": "Asia - Pacific",
+              "Child_Labor": "T",
+              "Forced_Labor": "T",
+              "Forced_Child_Labor": "T"
+            }
+          }
+        },
+        {
+          "Good_Name": "Beans (green, soy, yellow)",
+          "Countries": {
+            "Country": {
+              "Country_Name": "Burma",
+              "ISO2": "BU",
+              "Region": "Asia - Pacific",
+              "Child_Labor": "T",
+              "Forced_Labor": "T",
+              "Forced_Child_Labor": "T"
+            }
+          }
+        },
+        {
+          "Good_Name": "Jade",
+          "Countries": {
+            "Country": {
+              "Country_Name": "Burma",
+              "ISO2": "BU",
+              "Region": "Asia - Pacific",
+              "Child_Labor": "T",
+              "Forced_Labor": "T",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Palm Thatch",
+          "Countries": {
+            "Country": {
+              "Country_Name": "Burma",
+              "ISO2": "BU",
+              "Region": "Asia - Pacific",
+              "Child_Labor": "F",
+              "Forced_Labor": "T",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Physic Nuts/Castor Beans",
+          "Countries": {
+            "Country": {
+              "Country_Name": "Burma",
+              "ISO2": "BU",
+              "Region": "Asia - Pacific",
+              "Child_Labor": "F",
+              "Forced_Labor": "T",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Rubber",
+          "Countries": {
+            "Country": [
+              {
+                "Country_Name": "Burma",
+                "ISO2": "BU",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "T"
+              },
+              {
+                "Country_Name": "Cambodia",
+                "ISO2": "KH",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Indonesia",
+                "ISO2": "ID",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Liberia",
+                "ISO2": "LR",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Philippines",
+                "ISO2": "PH",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              }
+            ]
+          }
+        },
+        {
+          "Good_Name": "Rubies",
+          "Countries": {
+            "Country": {
+              "Country_Name": "Burma",
+              "ISO2": "BU",
+              "Region": "Asia - Pacific",
+              "Child_Labor": "T",
+              "Forced_Labor": "T",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Sesame",
+          "Countries": {
+            "Country": {
+              "Country_Name": "Burma",
+              "ISO2": "BU",
+              "Region": "Asia - Pacific",
+              "Child_Labor": "F",
+              "Forced_Labor": "T",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Sunflowers",
+          "Countries": {
+            "Country": {
+              "Country_Name": "Burma",
+              "ISO2": "BU",
+              "Region": "Asia - Pacific",
+              "Child_Labor": "F",
+              "Forced_Labor": "T",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Teak",
+          "Countries": {
+            "Country": {
+              "Country_Name": "Burma",
+              "ISO2": "BU",
+              "Region": "Asia - Pacific",
+              "Child_Labor": "T",
+              "Forced_Labor": "T",
+              "Forced_Child_Labor": "T"
+            }
+          }
+        },
+        {
+          "Good_Name": "Alcoholic Beverages",
+          "Countries": {
+            "Country": {
+              "Country_Name": "Cambodia",
+              "ISO2": "KH",
+              "Region": "Asia - Pacific",
+              "Child_Labor": "T",
+              "Forced_Labor": "F",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Fish",
+          "Countries": {
+            "Country": [
+              {
+                "Country_Name": "Cambodia",
+                "ISO2": "KH",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Ghana",
+                "ISO2": "GH",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "T"
+              },
+              {
+                "Country_Name": "Indonesia",
+                "ISO2": "ID",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Kenya",
+                "ISO2": "KE",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Peru",
+                "ISO2": "PE",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Philippines",
+                "ISO2": "PH",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Thailand",
+                "ISO2": "TH",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "F",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Uganda",
+                "ISO2": "UG",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Yemen",
+                "ISO2": "YE",
+                "Region": "Middle East - North Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              }
+            ]
+          }
+        },
+        {
+          "Good_Name": "Meat",
+          "Countries": {
+            "Country": {
+              "Country_Name": "Cambodia",
+              "ISO2": "KH",
+              "Region": "Asia - Pacific",
+              "Child_Labor": "T",
+              "Forced_Labor": "F",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Cocoa",
+          "Countries": {
+            "Country": [
+              {
+                "Country_Name": "Cameroon",
+                "ISO2": "CM",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Cote d'Ivoire",
+                "ISO2": "CI",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "T"
+              },
+              {
+                "Country_Name": "Ghana",
+                "ISO2": "GH",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Guinea",
+                "ISO2": "GN",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Nigeria",
+                "ISO2": "NG",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "T"
+              },
+              {
+                "Country_Name": "Sierra Leone",
+                "ISO2": "SL",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              }
+            ]
+          }
+        },
+        {
+          "Good_Name": "Artificial Flowers",
+          "Countries": {
+            "Country": {
+              "Country_Name": "China",
+              "ISO2": "CN",
+              "Region": "Asia - Pacific",
+              "Child_Labor": "F",
+              "Forced_Labor": "T",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Christmas Decorations",
+          "Countries": {
+            "Country": {
+              "Country_Name": "China",
+              "ISO2": "CN",
+              "Region": "Asia - Pacific",
+              "Child_Labor": "F",
+              "Forced_Labor": "T",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Electronics",
+          "Countries": {
+            "Country": [
+              {
+                "Country_Name": "China",
+                "ISO2": "CN",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "T"
+              },
+              {
+                "Country_Name": "Malaysia",
+                "ISO2": "MY",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "F",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "F"
+              }
+            ]
+          }
+        },
+        {
+          "Good_Name": "Fireworks",
+          "Countries": {
+            "Country": [
+              {
+                "Country_Name": "China",
+                "ISO2": "CN",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "El Salvador",
+                "ISO2": "SV",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Guatemala",
+                "ISO2": "GT",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "India",
+                "ISO2": "IN",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Peru",
+                "ISO2": "PE",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              }
+            ]
+          }
+        },
+        {
+          "Good_Name": "Nails",
+          "Countries": {
+            "Country": {
+              "Country_Name": "China",
+              "ISO2": "CN",
+              "Region": "Asia - Pacific",
+              "Child_Labor": "F",
+              "Forced_Labor": "T",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Toys",
+          "Countries": {
+            "Country": {
+              "Country_Name": "China",
+              "ISO2": "CN",
+              "Region": "Asia - Pacific",
+              "Child_Labor": "T",
+              "Forced_Labor": "T",
+              "Forced_Child_Labor": "T"
+            }
+          }
+        },
+        {
+          "Good_Name": "Bricks (clay)",
+          "Countries": {
+            "Country": {
+              "Country_Name": "Colombia",
+              "ISO2": "CO",
+              "Region": "Latin America - Caribbean",
+              "Child_Labor": "T",
+              "Forced_Labor": "F",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Coca (stimulant plant)",
+          "Countries": {
+            "Country": [
+              {
+                "Country_Name": "Colombia",
+                "ISO2": "CO",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "T",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "T"
+              },
+              {
+                "Country_Name": "Peru",
+                "ISO2": "PE",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              }
+            ]
+          }
+        },
+        {
+          "Good_Name": "Coffee",
+          "Countries": {
+            "Country": [
+              {
+                "Country_Name": "Colombia",
+                "ISO2": "CO",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Cote d'Ivoire",
+                "ISO2": "CI",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "T"
+              },
+              {
+                "Country_Name": "Dominican Republic",
+                "ISO2": "DO",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "El Salvador",
+                "ISO2": "SV",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Guatemala",
+                "ISO2": "GT",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Guinea",
+                "ISO2": "GN",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Honduras",
+                "ISO2": "HN",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Kenya",
+                "ISO2": "KE",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Mexico",
+                "ISO2": "MX",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Nicaragua",
+                "ISO2": "NI",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Panama",
+                "ISO2": "PA",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Sierra Leone",
+                "ISO2": "SL",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Tanzania",
+                "ISO2": "TZ",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Uganda",
+                "ISO2": "UG",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              }
+            ]
+          }
+        },
+        {
+          "Good_Name": "Emeralds",
+          "Countries": {
+            "Country": {
+              "Country_Name": "Colombia",
+              "ISO2": "CO",
+              "Region": "Latin America - Caribbean",
+              "Child_Labor": "T",
+              "Forced_Labor": "F",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Pornography",
+          "Countries": {
+            "Country": [
+              {
+                "Country_Name": "Colombia",
+                "ISO2": "CO",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Mexico",
+                "ISO2": "MX",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Paraguay",
+                "ISO2": "PY",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Philippines",
+                "ISO2": "PH",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Russia",
+                "ISO2": "RU",
+                "Region": "Europe - Eurasia",
+                "Child_Labor": "T",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "T"
+              },
+              {
+                "Country_Name": "Thailand",
+                "ISO2": "TH",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Ukraine",
+                "ISO2": "UA",
+                "Region": "Europe - Eurasia",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              }
+            ]
+          }
+        },
+        {
+          "Good_Name": "Cassiterite (tin ore)",
+          "Countries": {
+            "Country": {
+              "Country_Name": "Democratic Republic of the Congo",
+              "ISO2": "CD",
+              "Region": "Sub-Saharan Africa",
+              "Child_Labor": "T",
+              "Forced_Labor": "T",
+              "Forced_Child_Labor": "T"
+            }
+          }
+        },
+        {
+          "Good_Name": "Coltan (tantalum ore)",
+          "Countries": {
+            "Country": {
+              "Country_Name": "Democratic Republic of the Congo",
+              "ISO2": "CD",
+              "Region": "Sub-Saharan Africa",
+              "Child_Labor": "T",
+              "Forced_Labor": "T",
+              "Forced_Child_Labor": "T"
+            }
+          }
+        },
+        {
+          "Good_Name": "Copper",
+          "Countries": {
+            "Country": {
+              "Country_Name": "Democratic Republic of the Congo",
+              "ISO2": "CD",
+              "Region": "Sub-Saharan Africa",
+              "Child_Labor": "T",
+              "Forced_Labor": "F",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Heterogenite (cobalt ore)",
+          "Countries": {
+            "Country": {
+              "Country_Name": "Democratic Republic of the Congo",
+              "ISO2": "CD",
+              "Region": "Sub-Saharan Africa",
+              "Child_Labor": "T",
+              "Forced_Labor": "F",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Wolframite (tungsten ore)",
+          "Countries": {
+            "Country": {
+              "Country_Name": "Democratic Republic of the Congo",
+              "ISO2": "CD",
+              "Region": "Sub-Saharan Africa",
+              "Child_Labor": "T",
+              "Forced_Labor": "T",
+              "Forced_Child_Labor": "T"
+            }
+          }
+        },
+        {
+          "Good_Name": "Baked Goods",
+          "Countries": {
+            "Country": {
+              "Country_Name": "Dominican Republic",
+              "ISO2": "DO",
+              "Region": "Latin America - Caribbean",
+              "Child_Labor": "T",
+              "Forced_Labor": "F",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Flowers",
+          "Countries": {
+            "Country": {
+              "Country_Name": "Ecuador",
+              "ISO2": "EC",
+              "Region": "Latin America - Caribbean",
+              "Child_Labor": "T",
+              "Forced_Labor": "F",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Stones (limestone)",
+          "Countries": {
+            "Country": [
+              {
+                "Country_Name": "Egypt",
+                "ISO2": "EG",
+                "Region": "Middle East - North Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Paraguay",
+                "ISO2": "PY",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              }
+            ]
+          }
+        },
+        {
+          "Good_Name": "Shellfish",
+          "Countries": {
+            "Country": [
+              {
+                "Country_Name": "El Salvador",
+                "ISO2": "SV",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Nicaragua",
+                "ISO2": "NI",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              }
+            ]
+          }
+        },
+        {
+          "Good_Name": "Textiles (hand-woven)",
+          "Countries": {
+            "Country": {
+              "Country_Name": "Ethiopia",
+              "ISO2": "ET",
+              "Region": "Sub-Saharan Africa",
+              "Child_Labor": "T",
+              "Forced_Labor": "T",
+              "Forced_Child_Labor": "T"
+            }
+          }
+        },
+        {
+          "Good_Name": "Tilapia (fish)",
+          "Countries": {
+            "Country": {
+              "Country_Name": "Ghana",
+              "ISO2": "GH",
+              "Region": "Sub-Saharan Africa",
+              "Child_Labor": "T",
+              "Forced_Labor": "T",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Broccoli",
+          "Countries": {
+            "Country": {
+              "Country_Name": "Guatemala",
+              "ISO2": "GT",
+              "Region": "Latin America - Caribbean",
+              "Child_Labor": "T",
+              "Forced_Labor": "F",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Gravel (crushed stones)",
+          "Countries": {
+            "Country": [
+              {
+                "Country_Name": "Guatemala",
+                "ISO2": "GT",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Nicaragua",
+                "ISO2": "NI",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Nigeria",
+                "ISO2": "NG",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "T"
+              }
+            ]
+          }
+        },
+        {
+          "Good_Name": "Lobsters",
+          "Countries": {
+            "Country": {
+              "Country_Name": "Honduras",
+              "ISO2": "HN",
+              "Region": "Latin America - Caribbean",
+              "Child_Labor": "T",
+              "Forced_Labor": "F",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Melons",
+          "Countries": {
+            "Country": [
+              {
+                "Country_Name": "Honduras",
+                "ISO2": "HN",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Mexico",
+                "ISO2": "MX",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Panama",
+                "ISO2": "PA",
+                "Region": "Latin America - Caribbean",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              }
+            ]
+          }
+        },
+        {
+          "Good_Name": "Brassware",
+          "Countries": {
+            "Country": {
+              "Country_Name": "India",
+              "ISO2": "IN",
+              "Region": "Asia - Pacific",
+              "Child_Labor": "T",
+              "Forced_Labor": "F",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Cottonseed (hybrid)",
+          "Countries": {
+            "Country": {
+              "Country_Name": "India",
+              "ISO2": "IN",
+              "Region": "Asia - Pacific",
+              "Child_Labor": "T",
+              "Forced_Labor": "T",
+              "Forced_Child_Labor": "T"
+            }
+          }
+        },
+        {
+          "Good_Name": "Embellished Textiles",
+          "Countries": {
+            "Country": [
+              {
+                "Country_Name": "India",
+                "ISO2": "IN",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "T"
+              },
+              {
+                "Country_Name": "Nepal",
+                "ISO2": "NP",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "T"
+              }
+            ]
+          }
+        },
+        {
+          "Good_Name": "Gems",
+          "Countries": {
+            "Country": [
+              {
+                "Country_Name": "India",
+                "ISO2": "IN",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Zambia",
+                "ISO2": "ZM",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              }
+            ]
+          }
+        },
+        {
+          "Good_Name": "Glass Bangles",
+          "Countries": {
+            "Country": [
+              {
+                "Country_Name": "India",
+                "ISO2": "IN",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Pakistan",
+                "ISO2": "PK",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              }
+            ]
+          }
+        },
+        {
+          "Good_Name": "Incense (agarbatti)",
+          "Countries": {
+            "Country": {
+              "Country_Name": "India",
+              "ISO2": "IN",
+              "Region": "Asia - Pacific",
+              "Child_Labor": "T",
+              "Forced_Labor": "F",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Leather Goods/Accessories",
+          "Countries": {
+            "Country": {
+              "Country_Name": "India",
+              "ISO2": "IN",
+              "Region": "Asia - Pacific",
+              "Child_Labor": "T",
+              "Forced_Labor": "F",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Locks",
+          "Countries": {
+            "Country": {
+              "Country_Name": "India",
+              "ISO2": "IN",
+              "Region": "Asia - Pacific",
+              "Child_Labor": "T",
+              "Forced_Labor": "F",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Silk Fabric",
+          "Countries": {
+            "Country": {
+              "Country_Name": "India",
+              "ISO2": "IN",
+              "Region": "Asia - Pacific",
+              "Child_Labor": "T",
+              "Forced_Labor": "F",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Silk Thread",
+          "Countries": {
+            "Country": {
+              "Country_Name": "India",
+              "ISO2": "IN",
+              "Region": "Asia - Pacific",
+              "Child_Labor": "T",
+              "Forced_Labor": "F",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Soccer Balls",
+          "Countries": {
+            "Country": {
+              "Country_Name": "India",
+              "ISO2": "IN",
+              "Region": "Asia - Pacific",
+              "Child_Labor": "T",
+              "Forced_Labor": "F",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Stones",
+          "Countries": {
+            "Country": [
+              {
+                "Country_Name": "India",
+                "ISO2": "IN",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "T"
+              },
+              {
+                "Country_Name": "Madagascar",
+                "ISO2": "MG",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Nepal",
+                "ISO2": "NP",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "T"
+              },
+              {
+                "Country_Name": "Zambia",
+                "ISO2": "ZM",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              }
+            ]
+          }
+        },
+        {
+          "Good_Name": "Thread/Yarn",
+          "Countries": {
+            "Country": {
+              "Country_Name": "India",
+              "ISO2": "IN",
+              "Region": "Asia - Pacific",
+              "Child_Labor": "T",
+              "Forced_Labor": "F",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Footwear (sandals)",
+          "Countries": {
+            "Country": {
+              "Country_Name": "Indonesia",
+              "ISO2": "ID",
+              "Region": "Asia - Pacific",
+              "Child_Labor": "T",
+              "Forced_Labor": "F",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Oil (palm)",
+          "Countries": {
+            "Country": [
+              {
+                "Country_Name": "Indonesia",
+                "ISO2": "ID",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Malaysia",
+                "ISO2": "MY",
+                "Region": "Asia - Pacific",
+                "Child_Labor": "T",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Sierra Leone",
+                "ISO2": "SL",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              }
+            ]
+          }
+        },
+        {
+          "Good_Name": "Miraa (stimulant plant)",
+          "Countries": {
+            "Country": {
+              "Country_Name": "Kenya",
+              "ISO2": "KE",
+              "Region": "Sub-Saharan Africa",
+              "Child_Labor": "T",
+              "Forced_Labor": "F",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Tea",
+          "Countries": {
+            "Country": [
+              {
+                "Country_Name": "Kenya",
+                "ISO2": "KE",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Malawi",
+                "ISO2": "MW",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Rwanda",
+                "ISO2": "RW",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Tanzania",
+                "ISO2": "TZ",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Uganda",
+                "ISO2": "UG",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              }
+            ]
+          }
+        },
+        {
+          "Good_Name": "Sapphires",
+          "Countries": {
+            "Country": {
+              "Country_Name": "Madagascar",
+              "ISO2": "MG",
+              "Region": "Sub-Saharan Africa",
+              "Child_Labor": "T",
+              "Forced_Labor": "F",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Vanilla",
+          "Countries": {
+            "Country": [
+              {
+                "Country_Name": "Madagascar",
+                "ISO2": "MG",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              },
+              {
+                "Country_Name": "Uganda",
+                "ISO2": "UG",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              }
+            ]
+          }
+        },
+        {
+          "Good_Name": "Goats",
+          "Countries": {
+            "Country": {
+              "Country_Name": "Mauritania",
+              "ISO2": "MR",
+              "Region": "Sub-Saharan Africa",
+              "Child_Labor": "T",
+              "Forced_Labor": "F",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Beans (green beans)",
+          "Countries": {
+            "Country": {
+              "Country_Name": "Mexico",
+              "ISO2": "MX",
+              "Region": "Latin America - Caribbean",
+              "Child_Labor": "T",
+              "Forced_Labor": "F",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Chile Peppers",
+          "Countries": {
+            "Country": {
+              "Country_Name": "Mexico",
+              "ISO2": "MX",
+              "Region": "Latin America - Caribbean",
+              "Child_Labor": "T",
+              "Forced_Labor": "F",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Cucumbers",
+          "Countries": {
+            "Country": {
+              "Country_Name": "Mexico",
+              "ISO2": "MX",
+              "Region": "Latin America - Caribbean",
+              "Child_Labor": "T",
+              "Forced_Labor": "F",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Eggplants",
+          "Countries": {
+            "Country": {
+              "Country_Name": "Mexico",
+              "ISO2": "MX",
+              "Region": "Latin America - Caribbean",
+              "Child_Labor": "T",
+              "Forced_Labor": "F",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Onions",
+          "Countries": {
+            "Country": {
+              "Country_Name": "Mexico",
+              "ISO2": "MX",
+              "Region": "Latin America - Caribbean",
+              "Child_Labor": "T",
+              "Forced_Labor": "F",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Fluorspar (mineral)",
+          "Countries": {
+            "Country": {
+              "Country_Name": "Mongolia",
+              "ISO2": "MN",
+              "Region": "Asia - Pacific",
+              "Child_Labor": "T",
+              "Forced_Labor": "F",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Stones (pumice)",
+          "Countries": {
+            "Country": {
+              "Country_Name": "Nicaragua",
+              "ISO2": "NI",
+              "Region": "Latin America - Caribbean",
+              "Child_Labor": "T",
+              "Forced_Labor": "F",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Gypsum (mineral)",
+          "Countries": {
+            "Country": {
+              "Country_Name": "Niger",
+              "ISO2": "NE",
+              "Region": "Sub-Saharan Africa",
+              "Child_Labor": "T",
+              "Forced_Labor": "F",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Trona (mineral)",
+          "Countries": {
+            "Country": {
+              "Country_Name": "Niger",
+              "ISO2": "NE",
+              "Region": "Sub-Saharan Africa",
+              "Child_Labor": "T",
+              "Forced_Labor": "F",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Granite",
+          "Countries": {
+            "Country": [
+              {
+                "Country_Name": "Nigeria",
+                "ISO2": "NG",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "T",
+                "Forced_Child_Labor": "T"
+              },
+              {
+                "Country_Name": "Sierra Leone",
+                "ISO2": "SL",
+                "Region": "Sub-Saharan Africa",
+                "Child_Labor": "T",
+                "Forced_Labor": "F",
+                "Forced_Child_Labor": "F"
+              }
+            ]
+          }
+        },
+        {
+          "Good_Name": "Sand",
+          "Countries": {
+            "Country": {
+              "Country_Name": "Nigeria",
+              "ISO2": "NG",
+              "Region": "Sub-Saharan Africa",
+              "Child_Labor": "T",
+              "Forced_Labor": "F",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Cement",
+          "Countries": {
+            "Country": {
+              "Country_Name": "North Korea",
+              "ISO2": "KP",
+              "Region": "Asia - Pacific",
+              "Child_Labor": "F",
+              "Forced_Labor": "T",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Iron",
+          "Countries": {
+            "Country": {
+              "Country_Name": "North Korea",
+              "ISO2": "KP",
+              "Region": "Asia - Pacific",
+              "Child_Labor": "F",
+              "Forced_Labor": "T",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Surgical Instruments",
+          "Countries": {
+            "Country": {
+              "Country_Name": "Pakistan",
+              "ISO2": "PK",
+              "Region": "Asia - Pacific",
+              "Child_Labor": "T",
+              "Forced_Labor": "F",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Wheat",
+          "Countries": {
+            "Country": {
+              "Country_Name": "Pakistan",
+              "ISO2": "PK",
+              "Region": "Asia - Pacific",
+              "Child_Labor": "F",
+              "Forced_Labor": "T",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Coconuts",
+          "Countries": {
+            "Country": {
+              "Country_Name": "Philippines",
+              "ISO2": "PH",
+              "Region": "Asia - Pacific",
+              "Child_Labor": "T",
+              "Forced_Labor": "F",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Fashion Accessories",
+          "Countries": {
+            "Country": {
+              "Country_Name": "Philippines",
+              "ISO2": "PH",
+              "Region": "Asia - Pacific",
+              "Child_Labor": "T",
+              "Forced_Labor": "F",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Hogs",
+          "Countries": {
+            "Country": {
+              "Country_Name": "Philippines",
+              "ISO2": "PH",
+              "Region": "Asia - Pacific",
+              "Child_Labor": "T",
+              "Forced_Labor": "F",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Pyrotechnics",
+          "Countries": {
+            "Country": {
+              "Country_Name": "Philippines",
+              "ISO2": "PH",
+              "Region": "Asia - Pacific",
+              "Child_Labor": "T",
+              "Forced_Labor": "F",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Cloves",
+          "Countries": {
+            "Country": {
+              "Country_Name": "Tanzania",
+              "ISO2": "TZ",
+              "Region": "Sub-Saharan Africa",
+              "Child_Labor": "T",
+              "Forced_Labor": "F",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Nile Perch (fish)",
+          "Countries": {
+            "Country": {
+              "Country_Name": "Tanzania",
+              "ISO2": "TZ",
+              "Region": "Sub-Saharan Africa",
+              "Child_Labor": "T",
+              "Forced_Labor": "F",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Tanzanite (gems)",
+          "Countries": {
+            "Country": {
+              "Country_Name": "Tanzania",
+              "ISO2": "TZ",
+              "Region": "Sub-Saharan Africa",
+              "Child_Labor": "T",
+              "Forced_Labor": "F",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Cumin",
+          "Countries": {
+            "Country": {
+              "Country_Name": "Turkey",
+              "ISO2": "TR",
+              "Region": "Europe - Eurasia",
+              "Child_Labor": "T",
+              "Forced_Labor": "F",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Furniture",
+          "Countries": {
+            "Country": {
+              "Country_Name": "Turkey",
+              "ISO2": "TR",
+              "Region": "Europe - Eurasia",
+              "Child_Labor": "T",
+              "Forced_Labor": "F",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Hazelnuts",
+          "Countries": {
+            "Country": {
+              "Country_Name": "Turkey",
+              "ISO2": "TR",
+              "Region": "Europe - Eurasia",
+              "Child_Labor": "T",
+              "Forced_Labor": "F",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Pulses (legumes)",
+          "Countries": {
+            "Country": {
+              "Country_Name": "Turkey",
+              "ISO2": "TR",
+              "Region": "Europe - Eurasia",
+              "Child_Labor": "T",
+              "Forced_Labor": "F",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        },
+        {
+          "Good_Name": "Sugar Beets",
+          "Countries": {
+            "Country": {
+              "Country_Name": "Turkey",
+              "ISO2": "TR",
+              "Region": "Europe - Eurasia",
+              "Child_Labor": "T",
+              "Forced_Labor": "F",
+              "Forced_Child_Labor": "F"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

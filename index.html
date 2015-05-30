@@ -14,7 +14,7 @@
 //			if (countries.Goods && countries.Goods != '') {
 //				console.log("Country: " + countries.Country);
 //				for (var good in countries.Goods) {
-//					console.log(countries.Goods[good].Good_Name);	
+//					console.log(countries.Goods[good].Good_Name);
 //				}
 //				console.log("");
 //			}
@@ -22,23 +22,26 @@
 
 		var basic = new Datamap({
 		  element: document.getElementById("basic"),
+			responsive: true,
 		  geographyConfig: {
 				popupTemplate: function(geo, data) {
 					for (var country in data) {
 						var countries = data[country];
 						return ['<div class="hoverinfo"><strong>',
 								'Country Name:' + countries.Country,
-								'</strong></div>'].join('');	
+								'</strong></div>'].join('');
 					}
 				}
 		  }
 		});
-     
+		d3.select(window).on('resize', function() {
+			basic.resize();
+		});
 	});
 </script>
 </head>
 
 <body>
-<div id="basic" style="position: relative; width: 500px; height: 300px;"></div>
+<div id="basic"></div>
 </body>
 </html>

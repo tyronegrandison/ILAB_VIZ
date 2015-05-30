@@ -4,18 +4,31 @@
 <meta charset="UTF-8">
 <title>Untitled Document</title>
 <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<script src="scripts/topojson.min.js"></script>
+<script src="scripts/datamaps.world.min.js"></script>
 <script type="text/javascript">
 	d3.json("data/countries2013.json", function(error, data) {
 		console.log(data);
 		for (var country in data) {
 			var countries = data[country];
-			console.log(countries.Country);
-			console.log(countries.Goods);
+			if (countries.Goods && countries.Goods != '') {
+				console.log("Country: " + countries.Country);
+				for (var good in countries.Goods) {
+					console.log(countries.Goods[good].Good_Name);	
+				}
+				console.log("");
+			}
 		}
+		var map = new Datamap({element: document.getElementById('container')});
+		var basic = new Datamap({
+		  element: document.getElementById("basic")
+		});
+     
 	});
 </script>
 </head>
 
 <body>
+<div id="container" style="position: relative; width: 500px; height: 300px;"></div>
 </body>
 </html>

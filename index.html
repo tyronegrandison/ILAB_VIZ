@@ -3,6 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <title>Untitled Document</title>
+<link rel="stylesheet" type="text/css" href="styles/normalize.css" media="all">
+<link rel="stylesheet" type="text/css" href="styles/themes.css" media="all">
 <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
 <script src="scripts/topojson.min.js"></script>
 <script src="scripts/datamaps.world.min.js"></script>
@@ -77,8 +79,15 @@ var basic = new Datamap({
 
 </script>
 </head>
-
 <body>
-<div id="basic"></div>
+	<header>
+		<h1>Visualizing Forced Labor and Child Labor</h1> <!-- Working title -->
+	</header>
+
+		<div id="basic"></div>
+
+	<footer>
+		<p><small>Data from the Department of Labor's Bureau of International Labor Affairs (ILAB)<small></p> <!-- Basic requirement part, can be moved -->
+	</footer>
 </body>
 </html>

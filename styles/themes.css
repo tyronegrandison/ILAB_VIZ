@@ -1,0 +1,30 @@
+* {
+	margin: 0;
+	padding: 0;
+	}
+body {
+	min-width: 100%;
+	background-color: #FFFFFF;
+	}
+header {
+	min-width: 100%;
+}
+header h1 {
+	padding: 5px;
+	text-align: center;
+	color: #66CCFC; /* Color from the powerpoints */
+}
+
+#basic {
+	margin-top: -10%;
+	overflow: hidden;
+
+	}
+footer {
+	min-width: 100%;
+	color: #66CCFC;
+	background-color: #4F4F4F; /* Color from the powerpoints */
+}
+footer p {
+	text-align: center;
+}

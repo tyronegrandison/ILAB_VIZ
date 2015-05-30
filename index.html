@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Untitled Document</title>
+<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<script type="text/javascript">
+	d3.json("data/countries2013.json", function(error, data) {
+		console.log(data);
+		for (var country in data) {
+			var countries = data[country];
+			console.log(countries.Country);
+			console.log(countries.Goods);
+		}
+	});
+</script>
+</head>
+
+<body>
+</body>
+</html>

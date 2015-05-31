@@ -36,7 +36,8 @@
 
 		var basic = new Datamap({
 		  element: document.getElementById("basic"),
-		  responsive: true,
+			projection: 'mercator',
+			responsive: true,
 		  fills: {
 			SignificantAdvancement: '',
 			ModerateAdvancement: '',
@@ -75,9 +76,9 @@
 	<header>
 		<h1>Visualizing Forced Labor and Child Labor</h1> <!-- Working title -->
 	</header>
-
+	<div id="map">
 		<div id="basic"></div>
-
+	</div>
 	<footer>
 		<p><small>Data from the Department of Labor's Bureau of International Labor Affairs (ILAB)<small></p> <!-- Basic requirement part, can be moved -->
 	</footer>

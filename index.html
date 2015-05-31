@@ -43,28 +43,56 @@
 			}
 		}
 		
-		console.log(mapData);
+		//console.log(mapData);
 
 		//creates an object with the iso2 country name and an array with the Advancement Level and the "number" which is a placeholder for Goods
 		var countryAL = [];
-		for (var country in data) {
-			var countries = data[country];
-			if (countries.Advancement_Level && countries.Advancement_Level != '') {
-				var newiso = new Array();
-				var AL = [];
-				AL.push ({
-					key: 'fillKey',
-					value: countries.Advancement_Level
-				});
-				AL.push ({
-					key: 'number',
-					value: 1
-				});
-				newiso[0] = extractIso3(countries.ISO2);
-				newiso[1] = AL;
-				countryAL.push(newiso);
+		var getCountryData = function(data) {
+			for (var country in data) {
+				var countries = data[country];
+				if (countries.Advancement_Level && countries.Advancement_Level != '') {
+					var newiso = [];
+					var AL = [];
+					AL.push ({
+						key: 'fillKey',
+						value: countries.Advancement_Level
+					});
+					AL.push ({
+						key: 'number',
+						value: 1
+					});
+					AL.push({
+						key: 'country',
+						value: countries.Country
+					})
+					//newiso[0] = extractIso3(countries.ISO2);
+					function connectIsos(previousiso) {
+						for (var l=0; l < iso2.length; l++) {
+							if (previousiso === iso2[l]) {
+								if (iso3[l] != '') {
+									AL.push(iso3[l]);
+								}
+							}
+						}
+					}
+					connectIsos(data[country].ISO2);
+
+					countryAL.push(AL);
+
+					// for (var n=0; n < newiso.length; n++ ){
+					// 	extractedIso3 = newiso[n];
+					// 	countryAL[extractedIso3] = {extractedIso3: []};
+					// 	countryAL[extractedIso3].extractedIso3.push(AL);
+
+
+					// 	console.log(countryAL[extractedIso3]);
+					// }
+				}
 			}
-		}
+		    return countryAL;
+		};
+		getCountryData(data);
+
 		console.log(countryAL);
 
 		var basic = new Datamap({
@@ -78,14 +106,16 @@
 			NoAdvancement: '#DC9595',
 			NoAssessment: '#DDDDDD'
 		  },
-		  data: mapData,
+		  data: countryAL,
 		  geographyConfig: {
 				popupTemplate: function(data) {
-						//console.log(mapData);
-						return ['<div class="hoverinfo"><strong>'                    
-						 + mapData + 
-						 //+ data.id +
+					for (var p = 0; p < countryAL.length; p++) {
+						var eachCountry = countryAL[p];
+						console.log(eachCountry[2].value);
+						return ['<div class="hoverinfo"><strong>'            
+						 + eachCountry[2].value + 
                         '</strong></div>'].join('');
+                    }
 				}
 		  	}
 		});

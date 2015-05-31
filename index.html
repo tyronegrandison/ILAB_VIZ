@@ -9,8 +9,8 @@
 <script src="scripts/topojson.min.js"></script>
 <script src="scripts/datamaps.world.min.js"></script>
 <script type="text/javascript">
-	window.onload = function() {
-	//d3.json("data/countries2013.json", function(error, data) {
+
+	d3.json("data/countries2013.json", function(error, data) {
 		//console.log(data);
 	//	for (var country in data) {
 //			var countries = data[country];
@@ -29,10 +29,25 @@
 		function isoconvert(previousiso) {
 			for (var i = 0; i < iso2.length; i++) {
 				if (previousiso === iso2[i]){
-					return iso3[i];
+					return iso3[i].ISO;
 				}
 			}
 		}
+
+		var previousiso = function(data) {
+			for (var j=0; j < data.length; j++) {
+				isoconvert(data[j].ISO2);
+			}
+		};
+
+		var mapData = {};
+		console.log("mapData " + mapData);
+		
+		var iso = previousiso(data);
+		console.log("iso " + iso);
+		
+		mapData[iso] = {};
+		console.log("mapData[iso] " + mapData[iso]);
 
 		var basic = new Datamap({
 		  element: document.getElementById("basic"),
@@ -44,28 +59,19 @@
 			NoAdvancement: '',
 			NoAssessment: ''
 		  },
-		  data: {
-			 'USA': {
-				'fillKey': 'HIGH',
-				'number': 1
-			 },
-			 'CAN': {
-				'fillKey': 'HIGH',
-				'number': 2
-			 }
-		  },
-		  geographyConfig: {
-				popupTemplate: function(geography, data) {
-						return ['<div class="hoverinfo"><strong>',
-                         + data.number,
-                        '</strong></div>'].join('');
-				}
-		  	}
+		  data: mapData
+//		  geographyConfig: {
+//				popupTemplate: function(geography, data) {
+//						return ['<div class="hoverinfo"><strong>',
+//                         + data.use,
+//                        '</strong></div>'].join('');
+//				}
+//		  	}
 		});
 		d3.select(window).on('resize', function() {
 			basic.resize();
 		});
-	};
+	});
 
 
 

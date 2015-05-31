@@ -15,10 +15,14 @@ header h1 {
 	color: #66CCFC; /* Color from the powerpoints */
 }
 
-#basic {
-	margin-top: -10%;
-	overflow: hidden;
+#map {
+	margin-top: -5%;
+}
 
+#basic {
+	max-width:80%;
+	margin: 0 auto;
+	overflow: hidden;
 	}
 footer {
 	min-width: 100%;

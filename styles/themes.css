@@ -24,6 +24,27 @@ header h1 {
 	margin: 0 auto;
 	overflow: hidden;
 	}
+
+/* Legend unresponsive in datamaps js */
+@media (max-width:599px){
+	.datamaps-legend {
+		display: none;
+	}
+}
+
+@media (min-width:600px){
+
+	.datamaps-legend {
+		float: right;
+		display: block;
+		position:relative;
+		width: 200px;
+		height: auto;
+		margin-top: 60%;
+		color: #4F4F4F;
+	}
+}
+
 footer {
 	min-width: 100%;
 	color: #66CCFC;

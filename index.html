@@ -36,6 +36,7 @@
 
 					countryAL[countryKey].fillKey = countries.Advancement_Level;
 					countryAL[countryKey].name = countries.Country;
+					console.log(countryAL);
 				}
 			}
 		    return countryAL;
@@ -47,11 +48,11 @@
 			projection: 'mercator', //type of map
 			responsive: true,
 		  fills: {
-				SignificantAdvancement: '#ABDDA4',
-				ModerateAdvancement: '#c8dda4',
-				MinimalAdvancement: '#ECE671',
-				NoAdvancement: '#DC9595',
-				NoAssessment: '#DDDDDD'
+				'Significant Advancement': '#ABDDA4',
+				'Moderate Advancement': '#c8dda4',
+				'Minimal Advancement': '#ECE671',
+				'No Advancement': '#DC9595',
+				'No Assessment': '#DDDDDD'
 		  },
 		  data: countryAL,
 		  geographyConfig: {

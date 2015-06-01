@@ -18,15 +18,22 @@
 
 		//creates an object with the iso2 country name and an array with the Advancement Level and the "number" which is a placeholder for Goods
 		var countryAL = {};
+		var countryNoAssessment = {};
 		var getCountryData = function(data) {
 			for (var country in data) {
 				var countries = data[country];
 				if (countries.Advancement_Level && countries.Advancement_Level != '') {
+					// gets the iso2 value from original countries2013.json file
 					function connectIsos(previousiso) {
+						// for each original iso2 value
 						for (var l=0; l < iso2.length; l++) {
+							// compare it to the iso2 value at current index in iso2 variable and if they're equivalent
 							if (previousiso === iso2[l]) {
+								// and if the iso3 array value at this index is not null
 								if (iso3[l] != '') {
+									// set countryKey variable to the iso3 array value at this index
 									countryKey = iso3[l];
+									// make countryKey a first level key within the countryAL object and set it equal to an empty object
 									countryAL[countryKey] = {};
 								}
 							}
@@ -34,38 +41,66 @@
 					}
 					connectIsos(data[country].ISO2);
 
+					// get the fillKey value for each country to change it's color based on the advancement level
 					countryAL[countryKey].fillKey = countries.Advancement_Level;
+
+					// get the name of each country to display on hover
 					countryAL[countryKey].name = countries.Country;
-					console.log(countryAL);
+
+					// for each country, get the number of goods produced by child labor
+					function getGoods(countries) {
+						// if the country reported goods produced and it's value is not undefined
+						if (countries.Goods && typeof countries.Goods[0] !== 'undefined') {
+							// get the goods array
+							countryAL[countryKey].goods = countries.Goods;
+						}
+					};
+					getGoods(countries);
 				}
 			}
 		    return countryAL;
 		};
 		getCountryData(data);
 
+		// sets up the map
 		var basic = new Datamap({
 		  element: document.getElementById("basic"),
 			projection: 'mercator', //type of map
 			responsive: true,
-		  fills: {
+		  fills: { // colors used to highlight countries based on their advancement level
 				'Significant Advancement': '#ABDDA4',
 				'Moderate Advancement': '#c8dda4',
 				'Minimal Advancement': '#ECE671',
 				'No Advancement': '#DC9595',
-				'No Assessment': '#DDDDDD'
+				'No Assessment': '#DDDDDD',
+				defaultFill: '#DDDDDD'
 		  },
-		  data: countryAL,
+		  data: countryAL, // set the map's data to our data object
 		  geographyConfig: {
 				popupTemplate: function(data) {
-					var countrySelected = data.id;
+					var countrySelected = data.id;  // get the data.id for the country hovered over
 					var name = '';
+					var goods;
+
+					// for each country in our data object, find the key 
 					Object.keys(countryAL).forEach(function(key){
+						// if the key equals the country hovered over
 						if (key === countrySelected) {
+							// get the name of the country
 							name = countryAL[key].name;
+							// if the country reported goods produced
+							if (typeof countryAL[key].goods !== 'undefined') {
+								// get the number of goods produced
+								goods = countryAL[key].goods.length;
+							} else {
+								// otherwise, display "not reported"
+								goods = 'Not reported';
+							}
 						}
 					});
+					// if the country name exists, display it on hover along with the goods data
 					if (name) {
-						return '<div class="hoverinfo"><strong>' + name + '</strong></div>';
+						return '<div class="hoverinfo"><strong>' + name + '<br />Number of Goods: ' + goods + '</strong></div>';
 					}
 				}
 		  	}

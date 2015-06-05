@@ -1,0 +1,354 @@
+Country_Name,Country_ISO2,Country_ISO3,Country_Region,Good_Name,Good_Sector,Child_Labor,Forced_Labor,Forced_Child_Labor
+Afghanistan,AF,AFG,Asia & Pacific,Bricks,Manufacturing,Yes,Yes,Yes
+Afghanistan,AF,AFG,Asia & Pacific,Carpets,Manufacturing,Yes,No,No
+Afghanistan,AF,AFG,Asia & Pacific,Coal,Mining,Yes,No,No
+Afghanistan,AF,AFG,Asia & Pacific,Flowers (poppies),Agriculture,Yes,No,No
+Angola,AO,AGO,Sub-Saharan Africa,Diamonds,Mining,Yes,Yes,No
+Argentina,AR,ARG,Latin America & Caribbean,Blueberries,Agriculture,Yes,No,No
+Argentina,AR,ARG,Latin America & Caribbean,Bricks,Manufacturing,Yes,No,No
+Argentina,AR,ARG,Latin America & Caribbean,Cotton,Agriculture,Yes,No,No
+Argentina,AR,ARG,Latin America & Caribbean,Garlic,Agriculture,Yes,No,No
+Argentina,AR,ARG,Latin America & Caribbean,Garments,Manufacturing,Yes,Yes,Yes
+Argentina,AR,ARG,Latin America & Caribbean,Grapes,Agriculture,Yes,No,No
+Argentina,AR,ARG,Latin America & Caribbean,Olives,Agriculture,Yes,No,No
+Argentina,AR,ARG,Latin America & Caribbean,Strawberries,Agriculture,Yes,No,No
+Argentina,AR,ARG,Latin America & Caribbean,Tobacco,Agriculture,Yes,No,No
+Argentina,AR,ARG,Latin America & Caribbean,Tomatoes,Agriculture,Yes,No,No
+Argentina,AR,ARG,Latin America & Caribbean,Yerba Mate (stimulant plant),Agriculture,Yes,No,No
+Azerbaijan,AZ,AZE,Europe & Eurasia,Cotton,Agriculture,Yes,No,No
+Bangladesh,BD,BGD,Asia & Pacific,Bidis (hand-rolled cigarettes),Manufacturing,Yes,No,No
+Bangladesh,BD,BGD,Asia & Pacific,Bricks,Manufacturing,Yes,No,No
+Bangladesh,BD,BGD,Asia & Pacific,Dried Fish,Manufacturing,Yes,Yes,Yes
+Bangladesh,BD,BGD,Asia & Pacific,Footwear,Manufacturing,Yes,No,No
+Bangladesh,BD,BGD,Asia & Pacific,Furniture (steel),Manufacturing,Yes,No,No
+Bangladesh,BD,BGD,Asia & Pacific,Garments,Manufacturing,Yes,No,No
+Bangladesh,BD,BGD,Asia & Pacific,Glass,Manufacturing,Yes,No,No
+Bangladesh,BD,BGD,Asia & Pacific,Leather,Manufacturing,Yes,No,No
+Bangladesh,BD,BGD,Asia & Pacific,Matches,Manufacturing,Yes,No,No
+Bangladesh,BD,BGD,Asia & Pacific,Poultry,Agriculture,Yes,No,No
+Bangladesh,BD,BGD,Asia & Pacific,Salt,Mining,Yes,No,No
+Bangladesh,BD,BGD,Asia & Pacific,Shrimp,Agriculture,Yes,No,No
+Bangladesh,BD,BGD,Asia & Pacific,Soap,Manufacturing,Yes,No,No
+Bangladesh,BD,BGD,Asia & Pacific,Textiles,Manufacturing,Yes,No,No
+Bangladesh,BD,BGD,Asia & Pacific,Textiles (jute),Manufacturing,Yes,No,No
+Belize,BZ,BLZ,Latin America & Caribbean,Bananas,Agriculture,Yes,No,No
+Belize,BZ,BLZ,Latin America & Caribbean,Citrus Fruits,Agriculture,Yes,No,No
+Belize,BZ,BLZ,Latin America & Caribbean,Sugarcane,Agriculture,Yes,No,No
+Benin,BJ,BEN,Sub-Saharan Africa,Cotton,Agriculture,Yes,Yes,Yes
+Benin,BJ,BEN,Sub-Saharan Africa,Granite (crushed),Mining,Yes,No,No
+Bolivia,BO,BOL,Latin America & Caribbean,Brazil Nuts/Chestnuts,Agriculture,Yes,Yes,Yes
+Bolivia,BO,BOL,Latin America & Caribbean,Bricks,Manufacturing,Yes,No,No
+Bolivia,BO,BOL,Latin America & Caribbean,Cattle,Agriculture,No,Yes,No
+Bolivia,BO,BOL,Latin America & Caribbean,Corn,Agriculture,Yes,Yes,No
+Bolivia,BO,BOL,Latin America & Caribbean,Gold,Mining,Yes,No,No
+Bolivia,BO,BOL,Latin America & Caribbean,Peanuts,Agriculture,No,Yes,No
+Bolivia,BO,BOL,Latin America & Caribbean,Silver,Mining,Yes,No,No
+Bolivia,BO,BOL,Latin America & Caribbean,Sugarcane,Agriculture,Yes,Yes,Yes
+Bolivia,BO,BOL,Latin America & Caribbean,Tin,Mining,Yes,No,No
+Bolivia,BO,BOL,Latin America & Caribbean,Zinc,Mining,Yes,No,No
+Brazil,BR,BRA,Latin America & Caribbean,Beef,Manufacturing,Yes,No,No
+Brazil,BR,BRA,Latin America & Caribbean,Bricks,Manufacturing,Yes,No,No
+Brazil,BR,BRA,Latin America & Caribbean,Cashews,Agriculture,Yes,No,No
+Brazil,BR,BRA,Latin America & Caribbean,Cattle,Agriculture,Yes,Yes,No
+Brazil,BR,BRA,Latin America & Caribbean,Ceramics,Manufacturing,Yes,No,No
+Brazil,BR,BRA,Latin America & Caribbean,Charcoal,Agriculture,Yes,Yes,No
+Brazil,BR,BRA,Latin America & Caribbean,Cotton,Agriculture,Yes,No,No
+Brazil,BR,BRA,Latin America & Caribbean,Footwear,Manufacturing,Yes,No,No
+Brazil,BR,BRA,Latin America & Caribbean,Garments,Manufacturing,No,Yes,No
+Brazil,BR,BRA,Latin America & Caribbean,Manioc/Cassava,Agriculture,Yes,No,No
+Brazil,BR,BRA,Latin America & Caribbean,Pineapples,Agriculture,Yes,No,No
+Brazil,BR,BRA,Latin America & Caribbean,Rice,Agriculture,Yes,No,No
+Brazil,BR,BRA,Latin America & Caribbean,Sisal,Agriculture,Yes,No,No
+Brazil,BR,BRA,Latin America & Caribbean,Sugarcane,Agriculture,No,Yes,No
+Brazil,BR,BRA,Latin America & Caribbean,Timber,Agriculture,No,Yes,No
+Brazil,BR,BRA,Latin America & Caribbean,Tobacco,Agriculture,Yes,No,No
+Burkina Faso,BF,BFA,Sub-Saharan Africa,Cotton,Agriculture,Yes,Yes,Yes
+Burkina Faso,BF,BFA,Sub-Saharan Africa,Gold,Mining,Yes,Yes,Yes
+Burma,BU,BUR,Asia & Pacific,Bamboo,Agriculture,Yes,Yes,Yes
+Burma,BU,BUR,Asia & Pacific,"Beans (green, soy, yellow)",Agriculture,Yes,Yes,Yes
+Burma,BU,BUR,Asia & Pacific,Bricks,Manufacturing,Yes,Yes,Yes
+Burma,BU,BUR,Asia & Pacific,Jade,Mining,Yes,Yes,No
+Burma,BU,BUR,Asia & Pacific,Palm Thatch,Agriculture,No,Yes,No
+Burma,BU,BUR,Asia & Pacific,Physic Nuts/Castor Beans,Agriculture,No,Yes,No
+Burma,BU,BUR,Asia & Pacific,Rice,Agriculture,Yes,Yes,Yes
+Burma,BU,BUR,Asia & Pacific,Rubber,Agriculture,Yes,Yes,Yes
+Burma,BU,BUR,Asia & Pacific,Rubies,Mining,Yes,Yes,No
+Burma,BU,BUR,Asia & Pacific,Sesame,Agriculture,No,Yes,No
+Burma,BU,BUR,Asia & Pacific,Shrimp,Agriculture,No,Yes,No
+Burma,BU,BUR,Asia & Pacific,Sugarcane,Agriculture,Yes,Yes,Yes
+Burma,BU,BUR,Asia & Pacific,Sunflowers,Agriculture,No,Yes,No
+Burma,BU,BUR,Asia & Pacific,Teak,Agriculture,Yes,Yes,Yes
+Cambodia,KH,KHM,Asia & Pacific,Alcoholic Beverages,Manufacturing,Yes,No,No
+Cambodia,KH,KHM,Asia & Pacific,Bricks,Manufacturing,Yes,No,No
+Cambodia,KH,KHM,Asia & Pacific,Manioc/Cassava,Agriculture,Yes,No,No
+Cambodia,KH,KHM,Asia & Pacific,Fish,Agriculture,Yes,No,No
+Cambodia,KH,KHM,Asia & Pacific,Meat,Manufacturing,Yes,No,No
+Cambodia,KH,KHM,Asia & Pacific,Rubber,Agriculture,Yes,No,No
+Cambodia,KH,KHM,Asia & Pacific,Salt,Mining,Yes,No,No
+Cambodia,KH,KHM,Asia & Pacific,Shrimp,Agriculture,Yes,No,No
+Cambodia,KH,KHM,Asia & Pacific,Textiles,Manufacturing,Yes,No,No
+Cambodia,KH,KHM,Asia & Pacific,Timber,Agriculture,Yes,No,No
+Cambodia,KH,KHM,Asia & Pacific,Tobacco,Agriculture,Yes,No,No
+Cameroon,CM,CMR,Sub-Saharan Africa,Cocoa,Agriculture,Yes,No,No
+Central African Republic,CF,CAF,Sub-Saharan Africa,Diamonds,Mining,Yes,No,No
+Chad,TD,TCD,Sub-Saharan Africa,Cattle,Agriculture,Yes,No,No
+China,CN,CHN,Asia & Pacific,Artificial Flowers,Manufacturing,No,Yes,No
+China,CN,CHN,Asia & Pacific,Bricks,Manufacturing,Yes,Yes,Yes
+China,CN,CHN,Asia & Pacific,Christmas Decorations,Manufacturing,No,Yes,No
+China,CN,CHN,Asia & Pacific,Coal,Mining,No,Yes,No
+China,CN,CHN,Asia & Pacific,Cotton,Agriculture,Yes,Yes,Yes
+China,CN,CHN,Asia & Pacific,Electronics,Manufacturing,Yes,Yes,Yes
+China,CN,CHN,Asia & Pacific,Fireworks,Manufacturing,Yes,Yes,No
+China,CN,CHN,Asia & Pacific,Footwear,Manufacturing,No,Yes,No
+China,CN,CHN,Asia & Pacific,Garments,Manufacturing,No,Yes,No
+China,CN,CHN,Asia & Pacific,Nails,Manufacturing,No,Yes,No
+China,CN,CHN,Asia & Pacific,Textiles,Manufacturing,Yes,No,No
+China,CN,CHN,Asia & Pacific,Toys,Manufacturing,Yes,Yes,Yes
+Colombia,CO,COL,Latin America & Caribbean,Bricks (clay),Manufacturing,Yes,No,No
+Colombia,CO,COL,Latin America & Caribbean,Coal,Mining,Yes,No,No
+Colombia,CO,COL,Latin America & Caribbean,Coca (stimulant plant),Agriculture,Yes,Yes,Yes
+Colombia,CO,COL,Latin America & Caribbean,Coffee,Agriculture,Yes,No,No
+Colombia,CO,COL,Latin America & Caribbean,Emeralds,Mining,Yes,No,No
+Colombia,CO,COL,Latin America & Caribbean,Gold,Mining,Yes,No,No
+Colombia,CO,COL,Latin America & Caribbean,Pornography,Other,Yes,No,No
+Colombia,CO,COL,Latin America & Caribbean,Sugarcane,Agriculture,Yes,No,No
+"Congo, Democratic Republic of the",CD,COD,Sub-Saharan Africa,Cassiterite (tin ore),Mining,Yes,Yes,Yes
+"Congo, Democratic Republic of the",CD,COD,Sub-Saharan Africa,Coltan (tantalum ore),Mining,Yes,Yes,Yes
+"Congo, Democratic Republic of the",CD,COD,Sub-Saharan Africa,Copper,Mining,Yes,No,No
+"Congo, Democratic Republic of the",CD,COD,Sub-Saharan Africa,Diamonds,Mining,Yes,No,No
+"Congo, Democratic Republic of the",CD,COD,Sub-Saharan Africa,Heterogenite (cobalt ore),Mining,Yes,No,No
+"Congo, Democratic Republic of the",CD,COD,Sub-Saharan Africa,Gold,Mining,Yes,Yes,Yes
+"Congo, Democratic Republic of the",CD,COD,Sub-Saharan Africa,Wolframite (tungsten ore),Mining,Yes,Yes,Yes
+Cote d'Ivoire,CI,CIV,Sub-Saharan Africa,Cocoa,Agriculture,Yes,Yes,Yes
+Cote d'Ivoire,CI,CIV,Sub-Saharan Africa,Coffee,Agriculture,Yes,Yes,Yes
+Dominican Republic,DO,DOM,Latin America & Caribbean,Baked Goods,Manufacturing,Yes,No,No
+Dominican Republic,DO,DOM,Latin America & Caribbean,Coffee,Agriculture,Yes,No,No
+Dominican Republic,DO,DOM,Latin America & Caribbean,Rice,Agriculture,Yes,No,No
+Dominican Republic,DO,DOM,Latin America & Caribbean,Sugarcane,Agriculture,Yes,Yes,No
+Dominican Republic,DO,DOM,Latin America & Caribbean,Tomatoes,Agriculture,Yes,No,No
+Ecuador,EC,ECU,Latin America & Caribbean,Bananas,Agriculture,Yes,No,No
+Ecuador,EC,ECU,Latin America & Caribbean,Bricks,Manufacturing,Yes,No,No
+Ecuador,EC,ECU,Latin America & Caribbean,Flowers,Agriculture,Yes,No,No
+Ecuador,EC,ECU,Latin America & Caribbean,Gold,Mining,Yes,No,No
+Egypt,EG,EGY,Middle East & North Africa,Cotton,Agriculture,Yes,No,No
+Egypt,EG,EGY,Middle East & North Africa,Stones (limestone),Mining,Yes,No,No
+El Salvador,SV,SLV,Latin America & Caribbean,Coffee,Agriculture,Yes,No,No
+El Salvador,SV,SLV,Latin America & Caribbean,Fireworks,Manufacturing,Yes,No,No
+El Salvador,SV,SLV,Latin America & Caribbean,Shellfish,Agriculture,Yes,No,No
+El Salvador,SV,SLV,Latin America & Caribbean,Sugarcane,Agriculture,Yes,No,No
+Ethiopia,ET,ETH,Sub-Saharan Africa,Cattle,Agriculture,Yes,No,No
+Ethiopia,ET,ETH,Sub-Saharan Africa,Gold,Mining,Yes,No,No
+Ethiopia,ET,ETH,Sub-Saharan Africa,Textiles (hand-woven),Manufacturing,Yes,Yes,Yes
+Ghana,GH,GHA,Sub-Saharan Africa,Cocoa,Agriculture,Yes,No,No
+Ghana,GH,GHA,Sub-Saharan Africa,Fish,Agriculture,Yes,Yes,Yes
+Ghana,GH,GHA,Sub-Saharan Africa,Gold,Mining,Yes,No,No
+Ghana,GH,GHA,Sub-Saharan Africa,Tilapia (fish),Agriculture,Yes,Yes,Yes
+Guatemala,GT,GTM,Latin America & Caribbean,Broccoli,Agriculture,Yes,No,No
+Guatemala,GT,GTM,Latin America & Caribbean,Coffee,Agriculture,Yes,No,No
+Guatemala,GT,GTM,Latin America & Caribbean,Corn,Agriculture,Yes,No,No
+Guatemala,GT,GTM,Latin America & Caribbean,Fireworks,Manufacturing,Yes,No,No
+Guatemala,GT,GTM,Latin America & Caribbean,Gravel (crushed stones),Mining,Yes,No,No
+Guatemala,GT,GTM,Latin America & Caribbean,Sugarcane,Agriculture,Yes,No,No
+Guinea,GN,GIN,Sub-Saharan Africa,Cashews,Agriculture,Yes,No,No
+Guinea,GN,GIN,Sub-Saharan Africa,Cocoa,Agriculture,Yes,No,No
+Guinea,GN,GIN,Sub-Saharan Africa,Coffee,Agriculture,Yes,No,No
+Guinea,GN,GIN,Sub-Saharan Africa,Diamonds,Mining,Yes,No,No
+Guinea,GN,GIN,Sub-Saharan Africa,Gold,Mining,Yes,No,No
+Honduras,HN,HND,Latin America & Caribbean,Coffee,Agriculture,Yes,No,No
+Honduras,HN,HND,Latin America & Caribbean,Lobsters,Agriculture,Yes,No,No
+Honduras,HN,HND,Latin America & Caribbean,Melons,Agriculture,Yes,No,No
+India,IN,IND,Asia & Pacific,Bidis (hand-rolled cigarettes),Manufacturing,Yes,No,No
+India,IN,IND,Asia & Pacific,Brassware,Manufacturing,Yes,No,No
+India,IN,IND,Asia & Pacific,Bricks,Manufacturing,Yes,Yes,Yes
+India,IN,IND,Asia & Pacific,Carpets,Manufacturing,Yes,Yes,No
+India,IN,IND,Asia & Pacific,Cottonseed (hybrid),Agriculture,Yes,Yes,Yes
+India,IN,IND,Asia & Pacific,Embellished Textiles,Manufacturing,Yes,Yes,Yes
+India,IN,IND,Asia & Pacific,Fireworks,Manufacturing,Yes,No,No
+India,IN,IND,Asia & Pacific,Footwear,Manufacturing,Yes,No,No
+India,IN,IND,Asia & Pacific,Garments,Manufacturing,Yes,Yes,Yes
+India,IN,IND,Asia & Pacific,Gems,Mining,Yes,No,No
+India,IN,IND,Asia & Pacific,Glass Bangles,Manufacturing,Yes,No,No
+India,IN,IND,Asia & Pacific,Incense (agarbatti),Manufacturing,Yes,No,No
+India,IN,IND,Asia & Pacific,Leather Goods/Accessories,Manufacturing,Yes,No,No
+India,IN,IND,Asia & Pacific,Locks,Manufacturing,Yes,No,No
+India,IN,IND,Asia & Pacific,Matches,Manufacturing,Yes,No,No
+India,IN,IND,Asia & Pacific,Rice,Agriculture,Yes,Yes,Yes
+India,IN,IND,Asia & Pacific,Silk Fabric,Manufacturing,Yes,No,No
+India,IN,IND,Asia & Pacific,Silk Thread,Manufacturing,Yes,No,No
+India,IN,IND,Asia & Pacific,Soccer Balls,Manufacturing,Yes,No,No
+India,IN,IND,Asia & Pacific,Stones,Mining,Yes,Yes,Yes
+India,IN,IND,Asia & Pacific,Sugarcane,Agriculture,Yes,No,No
+India,IN,IND,Asia & Pacific,Thread/Yarn,Manufacturing,Yes,No,No
+India,IN,IND,Asia & Pacific,Cotton,Agriculture,Yes,No,No
+Indonesia,ID,IDN,Asia & Pacific,Fish,Agriculture,Yes,No,No
+Indonesia,ID,IDN,Asia & Pacific,Footwear (sandals),Manufacturing,Yes,No,No
+Indonesia,ID,IDN,Asia & Pacific,Gold,Mining,Yes,No,No
+Indonesia,ID,IDN,Asia & Pacific,Oil (palm),Agriculture,Yes,No,No
+Indonesia,ID,IDN,Asia & Pacific,Rubber,Agriculture,Yes,No,No
+Indonesia,ID,IDN,Asia & Pacific,Tobacco,Agriculture,Yes,No,No
+Iran,IR,IRN,Middle East & North Africa,Carpets,Manufacturing,Yes,No,No
+Jordan,JO,JOR,Middle East & North Africa,Garments,Manufacturing,No,Yes,No
+Kazakhstan,KZ,KAZ,Asia & Pacific,Cotton,Agriculture,Yes,Yes,No
+Kenya,KE,KEN,Sub-Saharan Africa,Coffee,Agriculture,Yes,No,No
+Kenya,KE,KEN,Sub-Saharan Africa,Fish,Agriculture,Yes,No,No
+Kenya,KE,KEN,Sub-Saharan Africa,Miraa (stimulant plant),Agriculture,Yes,No,No
+Kenya,KE,KEN,Sub-Saharan Africa,Rice,Agriculture,Yes,No,No
+Kenya,KE,KEN,Sub-Saharan Africa,Sisal,Agriculture,Yes,No,No
+Kenya,KE,KEN,Sub-Saharan Africa,Sugarcane,Agriculture,Yes,No,No
+Kenya,KE,KEN,Sub-Saharan Africa,Tea,Agriculture,Yes,No,No
+Kenya,KE,KEN,Sub-Saharan Africa,Tobacco,Agriculture,Yes,No,No
+Kyrgyz Republic,KV,,Europe & Eurasia,Cotton,Agriculture,Yes,No,No
+Kyrgyz Republic,KV,,Europe & Eurasia,Tobacco,Agriculture,Yes,No,No
+Lebanon,LB,LBN,Middle East & North Africa,Tobacco,Agriculture,Yes,No,No
+Lesotho,LS,LSO,Sub-Saharan Africa,Cattle,Agriculture,Yes,No,No
+Liberia,LR,LBR,Sub-Saharan Africa,Diamonds,Mining,Yes,No,No
+Liberia,LR,LBR,Sub-Saharan Africa,Rubber,Agriculture,Yes,No,No
+Madagascar,MG,MDG,Sub-Saharan Africa,Sapphires,Mining,Yes,No,No
+Madagascar,MG,MDG,Sub-Saharan Africa,Stones,Mining,Yes,No,No
+Madagascar,MG,MDG,Sub-Saharan Africa,Vanilla,Agriculture,Yes,No,No
+Malawi,MW,MWI,Sub-Saharan Africa,Tea,Agriculture,Yes,No,No
+Malawi,MW,MWI,Sub-Saharan Africa,Tobacco,Agriculture,Yes,Yes,Yes
+Malaysia,MY,MYS,Asia & Pacific,Electronics,Manufacturing,No,Yes,No
+Malaysia,MY,MYS,Asia & Pacific,Garments,Manufacturing,No,Yes,No
+Malaysia,MY,MYS,Asia & Pacific,Oil (palm),Agriculture,Yes,Yes,No
+Mali,ML,MLI,Sub-Saharan Africa,Cotton,Agriculture,Yes,No,No
+Mali,ML,MLI,Sub-Saharan Africa,Gold,Mining,Yes,No,No
+Mali,ML,MLI,Sub-Saharan Africa,Rice,Agriculture,Yes,Yes,Yes
+Mauritania,MR,MRT,Sub-Saharan Africa,Cattle,Agriculture,Yes,No,No
+Mauritania,MR,MRT,Sub-Saharan Africa,Goats,Agriculture,Yes,No,No
+Mexico,MX,MEX,Latin America & Caribbean,Beans (green beans),Agriculture,Yes,No,No
+Mexico,MX,MEX,Latin America & Caribbean,Chile Peppers,Agriculture,Yes,No,No
+Mexico,MX,MEX,Latin America & Caribbean,Coffee,Agriculture,Yes,No,No
+Mexico,MX,MEX,Latin America & Caribbean,Cucumbers,Agriculture,Yes,No,No
+Mexico,MX,MEX,Latin America & Caribbean,Eggplants,Agriculture,Yes,No,No
+Mexico,MX,MEX,Latin America & Caribbean,Melons,Agriculture,Yes,No,No
+Mexico,MX,MEX,Latin America & Caribbean,Onions,Agriculture,Yes,No,No
+Mexico,MX,MEX,Latin America & Caribbean,Pornography,Other,Yes,No,No
+Mexico,MX,MEX,Latin America & Caribbean,Sugarcane,Agriculture,Yes,No,No
+Mexico,MX,MEX,Latin America & Caribbean,Tobacco,Agriculture,Yes,No,No
+Mexico,MX,MEX,Latin America & Caribbean,Tomatoes,Agriculture,Yes,No,No
+Mongolia,MN,MNG,Asia & Pacific,Coal,Mining,Yes,No,No
+Mongolia,MN,MNG,Asia & Pacific,Fluorspar (mineral),Mining,Yes,No,No
+Mongolia,MN,MNG,Asia & Pacific,Gold,Mining,Yes,No,No
+Mozambique,MZ,MOZ,Sub-Saharan Africa,Tobacco,Agriculture,Yes,No,No
+Namibia,NA,NAM,Sub-Saharan Africa,Cattle,Agriculture,Yes,No,No
+Nepal,NP,NPL,Asia & Pacific,Bricks,Manufacturing,Yes,Yes,Yes
+Nepal,NP,NPL,Asia & Pacific,Carpets,Manufacturing,Yes,Yes,Yes
+Nepal,NP,NPL,Asia & Pacific,Embellished Textiles,Manufacturing,Yes,Yes,Yes
+Nepal,NP,NPL,Asia & Pacific,Stones,Mining,Yes,Yes,Yes
+Nicaragua,NI,NIC,Latin America & Caribbean,Bananas,Agriculture,Yes,No,No
+Nicaragua,NI,NIC,Latin America & Caribbean,Coffee,Agriculture,Yes,No,No
+Nicaragua,NI,NIC,Latin America & Caribbean,Gold,Mining,Yes,No,No
+Nicaragua,NI,NIC,Latin America & Caribbean,Gravel (crushed stones),Mining,Yes,No,No
+Nicaragua,NI,NIC,Latin America & Caribbean,Shellfish,Agriculture,Yes,No,No
+Nicaragua,NI,NIC,Latin America & Caribbean,Stones (pumice),Mining,Yes,No,No
+Nicaragua,NI,NIC,Latin America & Caribbean,Tobacco,Agriculture,Yes,No,No
+Niger,NE,NER,Sub-Saharan Africa,Cattle,Agriculture,No,Yes,No
+Niger,NE,NER,Sub-Saharan Africa,Gold,Mining,Yes,No,No
+Niger,NE,NER,Sub-Saharan Africa,Gypsum (mineral),Mining,Yes,No,No
+Niger,NE,NER,Sub-Saharan Africa,Salt,Mining,Yes,No,No
+Niger,NE,NER,Sub-Saharan Africa,Trona (mineral),Mining,Yes,No,No
+Nigeria,NG,NGA,Sub-Saharan Africa,Cocoa,Agriculture,Yes,Yes,Yes
+Nigeria,NG,NGA,Sub-Saharan Africa,Granite,Mining,Yes,Yes,Yes
+Nigeria,NG,NGA,Sub-Saharan Africa,Gravel (crushed stones),Mining,Yes,Yes,Yes
+Nigeria,NG,NGA,Sub-Saharan Africa,Manioc/Cassava,Agriculture,Yes,No,No
+Nigeria,NG,NGA,Sub-Saharan Africa,Sand,Mining,Yes,No,No
+North Korea,KP,PRK,Asia & Pacific,Bricks,Manufacturing,No,Yes,No
+North Korea,KP,PRK,Asia & Pacific,Cement,Manufacturing,No,Yes,No
+North Korea,KP,PRK,Asia & Pacific,Coal,Mining,No,Yes,No
+North Korea,KP,PRK,Asia & Pacific,Gold,Mining,No,Yes,No
+North Korea,KP,PRK,Asia & Pacific,Iron,Mining,No,Yes,No
+North Korea,KP,PRK,Asia & Pacific,Textiles,Manufacturing,No,Yes,No
+North Korea,KP,PRK,Asia & Pacific,Timber,Agriculture,No,Yes,No
+Pakistan,PK,PAK,Asia & Pacific,Bricks,Manufacturing,Yes,Yes,Yes
+Pakistan,PK,PAK,Asia & Pacific,Carpets,Manufacturing,Yes,Yes,Yes
+Pakistan,PK,PAK,Asia & Pacific,Coal,Mining,Yes,Yes,Yes
+Pakistan,PK,PAK,Asia & Pacific,Cotton,Agriculture,No,Yes,No
+Pakistan,PK,PAK,Asia & Pacific,Glass Bangles,Manufacturing,Yes,No,No
+Pakistan,PK,PAK,Asia & Pacific,Leather,Manufacturing,Yes,No,No
+Pakistan,PK,PAK,Asia & Pacific,Sugarcane,Agriculture,No,Yes,No
+Pakistan,PK,PAK,Asia & Pacific,Surgical Instruments,Manufacturing,Yes,No,No
+Pakistan,PK,PAK,Asia & Pacific,Wheat,Agriculture,No,Yes,No
+Panama,PA,PAN,Latin America & Caribbean,Coffee,Agriculture,Yes,No,No
+Panama,PA,PAN,Latin America & Caribbean,Melons,Agriculture,Yes,No,No
+Panama,PA,PAN,Latin America & Caribbean,Sugarcane,Agriculture,Yes,No,No
+Paraguay,PY,PRY,Latin America & Caribbean,Bricks,Manufacturing,Yes,No,No
+Paraguay,PY,PRY,Latin America & Caribbean,Cattle,Agriculture,No,Yes,No
+Paraguay,PY,PRY,Latin America & Caribbean,Cotton,Agriculture,Yes,No,No
+Paraguay,PY,PRY,Latin America & Caribbean,Pornography,Other,Yes,No,No
+Paraguay,PY,PRY,Latin America & Caribbean,Stones (limestone),Mining,Yes,No,No
+Paraguay,PY,PRY,Latin America & Caribbean,Sugarcane,Agriculture,Yes,No,No
+Peru,PE,PER,Latin America & Caribbean,Brazil Nuts/Chestnuts,Agriculture,No,Yes,No
+Peru,PE,PER,Latin America & Caribbean,Bricks,Manufacturing,Yes,No,No
+Peru,PE,PER,Latin America & Caribbean,Coca (stimulant plant),Agriculture,Yes,No,No
+Peru,PE,PER,Latin America & Caribbean,Fireworks,Manufacturing,Yes,No,No
+Peru,PE,PER,Latin America & Caribbean,Fish,Agriculture,Yes,No,No
+Peru,PE,PER,Latin America & Caribbean,Gold,Mining,Yes,Yes,No
+Peru,PE,PER,Latin America & Caribbean,Timber,Agriculture,No,Yes,No
+Philippines,PH,PHL,Asia & Pacific,Bananas,Agriculture,Yes,No,No
+Philippines,PH,PHL,Asia & Pacific,Coconuts,Agriculture,Yes,No,No
+Philippines,PH,PHL,Asia & Pacific,Corn,Agriculture,Yes,No,No
+Philippines,PH,PHL,Asia & Pacific,Fashion Accessories,Manufacturing,Yes,No,No
+Philippines,PH,PHL,Asia & Pacific,Fish,Agriculture,Yes,No,No
+Philippines,PH,PHL,Asia & Pacific,Gold,Mining,Yes,No,No
+Philippines,PH,PHL,Asia & Pacific,Hogs,Agriculture,Yes,No,No
+Philippines,PH,PHL,Asia & Pacific,Pornography,Other,Yes,No,No
+Philippines,PH,PHL,Asia & Pacific,Pyrotechnics,Manufacturing,Yes,No,No
+Philippines,PH,PHL,Asia & Pacific,Rice,Agriculture,Yes,No,No
+Philippines,PH,PHL,Asia & Pacific,Rubber,Agriculture,Yes,No,No
+Philippines,PH,PHL,Asia & Pacific,Sugarcane,Agriculture,Yes,No,No
+Philippines,PH,PHL,Asia & Pacific,Tobacco,Agriculture,Yes,No,No
+Russia,RU,RUS,Europe & Eurasia,Pornography,Other,Yes,Yes,Yes
+Rwanda,RW,RWA,Sub-Saharan Africa,Tea,Agriculture,Yes,No,No
+Senegal,SN,SEN,Sub-Saharan Africa,Gold,Mining,Yes,No,No
+Sierra Leone,SL,SLE,Sub-Saharan Africa,Cocoa,Agriculture,Yes,No,No
+Sierra Leone,SL,SLE,Sub-Saharan Africa,Coffee,Agriculture,Yes,No,No
+Sierra Leone,SL,SLE,Sub-Saharan Africa,Diamonds,Mining,Yes,Yes,Yes
+Sierra Leone,SL,SLE,Sub-Saharan Africa,Granite,Mining,Yes,No,No
+Sierra Leone,SL,SLE,Sub-Saharan Africa,Oil (Palm),Agriculture,Yes,No,No
+South Sudan,SS,SSD,Sub-Saharan Africa,Cattle,Agriculture,Yes,Yes,Yes
+Suriname,SR,SUR,Latin America & Caribbean,Gold,Mining,Yes,No,No
+Tajikistan,TJ,TJK,Asia & Pacific,Cotton,Agriculture,Yes,Yes,Yes
+Tanzania,TZ,TZA,Sub-Saharan Africa,Cloves,Agriculture,Yes,No,No
+Tanzania,TZ,TZA,Sub-Saharan Africa,Coffee,Agriculture,Yes,No,No
+Tanzania,TZ,TZA,Sub-Saharan Africa,Gold,Mining,Yes,No,No
+Tanzania,TZ,TZA,Sub-Saharan Africa,Nile Perch (fish),Agriculture,Yes,No,No
+Tanzania,TZ,TZA,Sub-Saharan Africa,Sisal,Agriculture,Yes,No,No
+Tanzania,TZ,TZA,Sub-Saharan Africa,Tanzanite (gems),Mining,Yes,No,No
+Tanzania,TZ,TZA,Sub-Saharan Africa,Tea,Agriculture,Yes,No,No
+Tanzania,TZ,TZA,Sub-Saharan Africa,Tobacco,Agriculture,Yes,No,No
+Thailand,TH,THA,Asia & Pacific,Fish,Agriculture,No,Yes,No
+Thailand,TH,THA,Asia & Pacific,Garments,Manufacturing,Yes,Yes,Yes
+Thailand,TH,THA,Asia & Pacific,Pornography,Other,Yes,No,No
+Thailand,TH,THA,Asia & Pacific,Shrimp,Agriculture,Yes,Yes,Yes
+Thailand,TH,THA,Asia & Pacific,Sugarcane,Agriculture,Yes,No,No
+Turkey,TR,TUR,Europe & Eurasia,Citrus Fruits,Agriculture,Yes,No,No
+Turkey,TR,TUR,Europe & Eurasia,Cotton,Agriculture,Yes,No,No
+Turkey,TR,TUR,Europe & Eurasia,Cumin,Agriculture,Yes,No,No
+Turkey,TR,TUR,Europe & Eurasia,Furniture,Manufacturing,Yes,No,No
+Turkey,TR,TUR,Europe & Eurasia,Hazelnuts,Agriculture,Yes,No,No
+Turkey,TR,TUR,Europe & Eurasia,Peanuts,Agriculture,Yes,No,No
+Turkey,TR,TUR,Europe & Eurasia,Pulses (legumes),Agriculture,Yes,No,No
+Turkey,TR,TUR,Europe & Eurasia,Sugar Beets,Agriculture,Yes,No,No
+Turkmenistan,TM,TKM,Asia & Pacific,Cotton,Agriculture,Yes,Yes,No
+Uganda,UG,UGA,Sub-Saharan Africa,Bricks,Manufacturing,Yes,No,No
+Uganda,UG,UGA,Sub-Saharan Africa,Cattle,Agriculture,Yes,No,No
+Uganda,UG,UGA,Sub-Saharan Africa,Charcoal,Agriculture,Yes,No,No
+Uganda,UG,UGA,Sub-Saharan Africa,Coffee,Agriculture,Yes,No,No
+Uganda,UG,UGA,Sub-Saharan Africa,Fish,Agriculture,Yes,No,No
+Uganda,UG,UGA,Sub-Saharan Africa,Rice,Agriculture,Yes,No,No
+Uganda,UG,UGA,Sub-Saharan Africa,Sugarcane,Agriculture,Yes,No,No
+Uganda,UG,UGA,Sub-Saharan Africa,Tea,Agriculture,Yes,No,No
+Uganda,UG,UGA,Sub-Saharan Africa,Tobacco,Agriculture,Yes,No,No
+Uganda,UG,UGA,Sub-Saharan Africa,Vanilla,Agriculture,Yes,No,No
+Ukraine,UA,UKR,Europe & Eurasia,Coal,Mining,Yes,No,No
+Ukraine,UA,UKR,Europe & Eurasia,Pornography,Other,Yes,No,No
+Uzbekistan,UZ,UZB,Asia & Pacific,Cotton,Agriculture,Yes,Yes,Yes
+Vietnam,VN,VNM,Asia & Pacific,Bricks,Manufacturing,Yes,No,No
+Vietnam,VN,VNM,Asia & Pacific,Garments,Manufacturing,Yes,Yes,Yes
+Yemen,YE,YEM,Middle East & North Africa,Fish,Agriculture,Yes,No,No
+Zambia,ZM,ZMB,Sub-Saharan Africa,Cattle,Agriculture,Yes,No,No
+Zambia,ZM,ZMB,Sub-Saharan Africa,Cotton,Agriculture,Yes,No,No
+Zambia,ZM,ZMB,Sub-Saharan Africa,Gems,Mining,Yes,No,No
+Zambia,ZM,ZMB,Sub-Saharan Africa,Stones,Mining,Yes,No,No
+Zambia,ZM,ZMB,Sub-Saharan Africa,Tobacco,Agriculture,Yes,No,No

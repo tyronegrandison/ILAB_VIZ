@@ -12,12 +12,22 @@
 	d3.json("data/countries2013.json", function(error, countries2013) {
 		//creates an object with the iso2 country name and an array with the Advancement Level and the "number" which is a placeholder for Goods
 		var countryData = {};
+		var goodName;
 		var getCountryData = function(countries2013) {
 			for (var country in countries2013) {
+				// get country within the countries2013.json data
 				var countries = countries2013[country];
-				country = countries.ISO3;
+
+				// get the ISO3 code for the country
+				var country = countries.ISO3;
+
+				// add a property to the countryData object using the ISO3 code value
 				countryData[country] = {};
-				if (countries.Advancement_Level && countries.Advancement_Level != '') {
+
+				// get the name of each country to display on hover
+				countryData[country].name = countries.Country;
+
+				if (countries.Advancement_Level && countries.Advancement_Level !== '') {
 					// get the fillKey value for each country to change it's color based on the advancement level
 					countryData[country].fillKey = countries.Advancement_Level;
 
@@ -25,22 +35,24 @@
 					countryData[country].advancementLevel = countries.Advancement_Level;
 				}
 
-				// get the name of each country to display on hover
-				countryData[country].name = countries.Country;
+				if (countries.Goods && countries.Goods !== '') {
+					// get the goods array for each country where available
+					countryData[country].goods = countries.Goods;
 
-				// for each country, get the number of goods produced by child labor
-				function getGoods(countries) {
-					// if the country reported goods produced and it's value is not undefined
-					if (countryData[country].Goods && typeof countryData[country].Goods[0] !== 'undefined') {
-						// get the goods array
-						countryData[country].goods = countries.Goods;
-						// for (var j=0; j < countryData[countryKey].goods.length; j++) {
-						// 	console.log(countryKey + ', ' + countryData[countryKey].goods[j].Good_Name);
-						// }
-						}
-					};
-					getGoods(countries);
+					// for each good produced by any given country
+					for (var good in countryData[country].goods) {
+						// get the name of the good and use it as the key to a new object that will contain the good's other properties
+						goodName = countryData[country].goods[good].Good_Name;
+						countryData[country].goods[goodName] = {};
+						
+						// get the sector data and labor types used to create each good
+						countryData[country].goods[goodName].sector = countryData[country].goods[good].Good_Sector;
+						countryData[country].goods[goodName].childLabor = countryData[country].goods[good].Child_Labor;
+						countryData[country].goods[goodName].forcedLabor = countryData[country].goods[good].Forced_Labor;
+						countryData[country].goods[goodName].forcedChildLabor = countryData[country].goods[good].Forced_Child_Labor;
+					}
 				}
+			}
 		    return countryData;
 		};
 		getCountryData(countries2013);
@@ -75,7 +87,7 @@
 
 					// if selectedKey is not null, display the country's data on hover
 					if (selectedKey !== '') {
-						 return '<div class="hoverinfo"><strong>' + countryData[selectedKey].name + '<br />Advancement Level: ' + countryData[selectedKey].advancementLevel + '<br />Number of Goods: ' + countryData[selectedKey].goods + '</strong></div>';
+						 return '<div class="hoverinfo"><strong>' + countryData[selectedKey].name + '<br />Advancement Level: ' + countryData[selectedKey].advancementLevel + '<br />Number of Goods: ' + countryData[selectedKey].goods.length + '</strong></div>';
 					} else {
 					// otherwise, display the country's name and indicate that it has no assessment
 						return '<div class="hoverinfo"><strong>' + data.properties.name + '<br />No Assessment' + '</strong></div>';

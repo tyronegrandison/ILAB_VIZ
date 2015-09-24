@@ -9,7 +9,7 @@
 <script src="scripts/topojson.min.js"></script>
 <script src="scripts/datamaps.world.min.js"></script>
 <script type="text/javascript">
-	d3.json("data/countries2013.json", function(error, countries2013) {
+	d3.json("data/countries_2013.json", function(error, countries2013) {
 		//creates an object with the iso2 country name and an array with the Advancement Level and the "number" which is a placeholder for Goods
 		var countries = {};
 						
@@ -22,7 +22,7 @@
 				countries[country] = {};
 
 				// get the name of each country to display on hover
-				countries[country] = {'iso': countries2013[item].ISO3, 'name': countries2013[item].Country};
+				countries[country] = {'iso': countries2013[item].ISO3, 'name': countries2013[item].Name};
 
 
 				if (countries2013[item].Advancement_Level && countries2013[item].Advancement_Level !== '') {
@@ -92,7 +92,7 @@
 						var goodsNames = '';  // Goods names for now
 						var goodsIcons = '';
 						for (var l in selectedKey.goods) {
-							if (numberGoods == 0) {
+							if (numberGoods !== 0) {
 								goodsIcons = goodsIcons + '<img src="' + selectedKey.goods[l].icon + '" class="hover-icon" />';
 							} else {
 								console.log("t");

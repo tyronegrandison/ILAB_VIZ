@@ -23,7 +23,15 @@ header h1 {
 	max-width:80%;
 	margin: 0 auto;
 	overflow: hidden;
-	}
+}
+.hover-icon {
+	width:30px;
+	padding:10px 10px 0 0;
+}
+.hoverinfo {
+	width:300px;
+	padding:10px 15px 10px!important;
+}
 
 /* Legend unresponsive in datamaps js */
 @media (max-width:599px){

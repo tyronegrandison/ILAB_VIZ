@@ -11,57 +11,55 @@
 <script type="text/javascript">
 	d3.json("data/countries2013.json", function(error, countries2013) {
 		//creates an object with the iso2 country name and an array with the Advancement Level and the "number" which is a placeholder for Goods
-		var countryData = {};
-		var goodName;
-		var getCountryData = function(countries2013) {
-			for (var country in countries2013) {
-				// get country within the countries2013.json data
-				var countries = countries2013[country];
+		var countries = {};
+						
+		var getCountries = function(countries2013) {
+			for (var item in countries2013) {
+				// create the ISO3 key
+				var country = countries2013[item].ISO3;
 
-				// get the ISO3 code for the country
-				var country = countries.ISO3;
-
-				// add a property to the countryData object using the ISO3 code value
-				countryData[country] = {};
+				// create an object for each country under it's ISO3
+				countries[country] = {};
 
 				// get the name of each country to display on hover
-				countryData[country].name = countries.Country;
+				countries[country] = {'iso': countries2013[item].ISO3, 'name': countries2013[item].Country};
 
-				if (countries.Advancement_Level && countries.Advancement_Level !== '') {
+
+				if (countries2013[item].Advancement_Level && countries2013[item].Advancement_Level !== '') {
 					// get the fillKey value for each country to change it's color based on the advancement level
-					countryData[country].fillKey = countries.Advancement_Level;
+					countries[country].fillKey = countries2013[item].Advancement_Level;
 
 					// get the advancement level for each country
-					countryData[country].advancementLevel = countries.Advancement_Level;
+					countries[country].advancementLevel = countries2013[item].Advancement_Level;
 				}
 
-				if (countries.Goods && countries.Goods !== '') {
-					// get the goods array for each country where available
-					countryData[country].goods = countries.Goods;
+				countries[country].goods = [];
 
-					// for each good produced by any given country
-					for (var good in countryData[country].goods) {
-						// get the name of the good and use it as the key to a new object that will contain the good's other properties
-						goodName = countryData[country].goods[good].Good_Name;
-						countryData[country].goods[goodName] = {};
+				for (var k in countries2013[item].Goods) {
+					if (countries2013[item].Goods && countries2013[item].Goods.length > 0) {
 						
-						// get the sector data and labor types used to create each good
-						countryData[country].goods[goodName].sector = countryData[country].goods[good].Good_Sector;
-						countryData[country].goods[goodName].childLabor = countryData[country].goods[good].Child_Labor;
-						countryData[country].goods[goodName].forcedLabor = countryData[country].goods[good].Forced_Labor;
-						countryData[country].goods[goodName].forcedChildLabor = countryData[country].goods[good].Forced_Child_Labor;
+						// get the information for each good and store it as an object within the goods array
+						var good = {};
+
+						good = {'name': countries2013[item].Goods[k].Good_Name,
+								'good-sector': countries2013[item].Goods[k].Good_Sector,
+								'child-labor': countries2013[item].Goods[k].Child_Labor,
+								'forced-labor': countries2013[item].Goods[k].Forced_Labor,
+								'forced-child-labor': countries2013[item].Goods[k].Forced_Child_Labor,
+								'icon': 'design/icon-sets/' + countries2013[item].Goods[k].Good_Name + '.png'};
+						countries[country].goods.push(good);
 					}
 				}
 			}
-		    return countryData;
 		};
-		getCountryData(countries2013);
-
+		getCountries(countries2013);
+		console.log(countries);
 
 		// sets up the map
 		var basic = new Datamap({
 		  element: document.getElementById("basic"),
-		  projection: 'mercator', //type of map
+		  scope: 'world',
+		  projection: 'mercator',
 		  responsive: true,
 		  fills: { // colors used to highlight countries based on their advancement level
 				'Significant Advancement': '#ABDDA4',
@@ -71,26 +69,47 @@
 				'No Assessment': '#DDDDDD',
 				defaultFill: '#DDDDDD'
 		  },
-		  data: countryData, // set the map's data to our data object
+		  data: countries, // set the map's data to our data object
 		  geographyConfig: {
 				popupTemplate: function(data) {
 					var countrySelected = data.id;  // get the data.id for the country hovered over
 					var selectedKey = '';
 
-					// for each country in our data object, find the key
-					Object.keys(countryData).forEach(function(key) {
-						// if the key equals the country hovered over
-						if (key === countrySelected) {
-							selectedKey = key;
+					for (var j in countries) {
+						if (countries[j].iso === countrySelected) {
+							selectedKey = countries[j];
 						}
-					});
+					}
 
-					// if selectedKey is not null, display the country's data on hover
 					if (selectedKey !== '') {
-						 return '<div class="hoverinfo"><strong>' + countryData[selectedKey].name + '<br />Advancement Level: ' + countryData[selectedKey].advancementLevel + '<br />Number of Goods: ' + countryData[selectedKey].goods.length + '</strong></div>';
+						var numberGoods; // Number of goods if greater than 0
+						if (selectedKey.goods && selectedKey.goods.length > 0) {
+							numberGoods = selectedKey.goods.length;
+						} else {
+							numberGoods = 0;
+						}
+
+						var goodsNames = '';  // Goods names for now
+						var goodsIcons = '';
+						for (var l in selectedKey.goods) {
+							if (numberGoods == 0) {
+								goodsIcons = goodsIcons + '<img src="' + selectedKey.goods[l].icon + '" class="hover-icon" />';
+							} else {
+								console.log("t");
+								goodsIcons = '<p><strong>There is no data available about goods produced.</strong></p>';
+							}
+
+							if (l != (selectedKey.goods.length - 1)) {
+								goodsNames = goodsNames + selectedKey.goods[l].name + ', ';
+							} else {
+								goodsNames = goodsNames +selectedKey.goods[l].name;
+							}
+						}
+
+
+						return '<div class="hoverinfo"><h2>' + selectedKey.name + '<br />' + goodsIcons + '</div>';
 					} else {
-					// otherwise, display the country's name and indicate that it has no assessment
-						return '<div class="hoverinfo"><strong>' + data.properties.name + '<br />No Assessment' + '</strong></div>';
+						return '<div class="hoverinfo"><h2>' + data.properties.name + '</h2><p><strong>No Assessment</strong></p></div>';
 					}
 				}
 		  	}
@@ -112,7 +131,7 @@
 	<header>
 		<h1>Visualizing Forced Labor and Child Labor</h1> <!-- Working title -->
 	</header>
-	<div id="map">
+	<div id="map" style="height:890px;">
 		<div id="basic"></div>
 	</div>
 	<footer>

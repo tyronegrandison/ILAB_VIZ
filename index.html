@@ -91,23 +91,16 @@
 
 						var goodsNames = '';  // Goods names for now
 						var goodsIcons = '';
-						for (var l in selectedKey.goods) {
-							if (numberGoods !== 0) {
+						if (numberGoods > 0) {
+							for (var l in selectedKey.goods) {
 								goodsIcons = goodsIcons + '<img src="' + selectedKey.goods[l].icon + '" class="hover-icon" />';
-							} else {
-								console.log("t");
-								goodsIcons = '<p><strong>There is no data available about goods produced.</strong></p>';
 							}
-
-							if (l != (selectedKey.goods.length - 1)) {
-								goodsNames = goodsNames + selectedKey.goods[l].name + ', ';
-							} else {
-								goodsNames = goodsNames +selectedKey.goods[l].name;
-							}
+						} else {
+							goodsIcons = '<p><strong>There is no data available about goods produced.</strong></p>';
 						}
 
 
-						return '<div class="hoverinfo"><h2>' + selectedKey.name + '<br />' + goodsIcons + '</div>';
+						return '<div class="hoverinfo"><h2>' + selectedKey.name + '</h2><br />' + goodsIcons + '</div>';
 					} else {
 						return '<div class="hoverinfo"><h2>' + data.properties.name + '</h2><p><strong>No Assessment</strong></p></div>';
 					}
